@@ -1,0 +1,819 @@
+OrderID,Customer Name,Email,City,Product Category,Product Name,Unit Price,Quantity,Discount,Payment Method,Order Status,Order Date
+10680,Neha Das,neha.das106@gmail.com,Delhi,electronics,Power Bank,2677.37,2.0,15,cod,shipped,03-10-2024
+10472,Vihaan Reddy,vihaan.reddy95@gmail.com,MUMBAI,Beauty ,Perfume,492.17,3.0,0,COD,DELIVERED,16-05-2025
+10643,Priya Chatterjee,priya.chatterjee37@gmail.com,delhi,Toys,Board Game,1550.63,3.0,0%,Debit Card,shipped,14/05/2025
+10644,Anika Iyer,anika.iyer190@gmail.com,jaipur,Electronic,Bluetooth Speaker,2488.41,1.0,0%,Upi,Pending,05/02/2025
+10747,Aadhya Gupta,aadhya.gupta97@gmail.com,HYDERABAD,toys,Building Blocks,,2.0,0,DC,Returned,06/29/2025
+10128,Myra Kapoor,myra.kapoor94@gmail.com,kolkata,Grocery,Ghee 1L,409.35,99.0,15,COD,Returned,07/22/2025
+10738,Suresh Rao,suresh.rao171@yahoo.com,mumbai,Home and Kitchen,Non-stick Pan,2896.5,5.0,15,NB,pending,24 Mar 2024
+10035,  ARJUN IYER  ,arjun.iyer87@yahoo.com,BANGALORE,Sports,Football,995.47,4.0,10,COD,shipped,06/15/2024
+10300,Reyansh Chowdary,reyansh.chowdary109@gmail.com,pune,Groceries,Sugar 1kg,580.04,2.0,0,Credit Card,cancelled,23/11/2024
+10095,Vihaan Kapoor,vihaan.kapoor214@yahoo.com,kolkata,home & kitchen,Non-stick Pan,2432.27,2.0,0,Debit Card,returned,11 Apr 2025
+10622,Ira Chowdary,ira.chowdary24@gmail.com,ahmedabad,Beauty ,Hair Oil,317.99,3.0,20,upi,Pending,04/25/2024
+10755,Divya Chowdary,divya.chowdary12@gmail.com,Bengaluru,Groceries,Tea Powder 500g,757.33,1.0,10,debit card,returned,
+10160,Reyansh Mehta,reyansh.mehta9@gmail.com,bengaluru,BEAUTY,Perfume,220.52,2.0,0%,credit card,Pending,09 May 2025
+10620,Ramesh Kapoor,ramesh.kapoor88@gmail.com,MUMBAI,Grocery,Salt 1kg,555.55,3.0,20,CREDIT CARD,Returned,02-09-2024
+10696,Ira Chatterjee,ira.chatterjee132@gmail.com,Bengaluru,Toy,Action Figure,-1941.66,1.0,5,UPI,Returned,25-02-2025
+10126,Ira Kapoor,ira.kapoor192@yahoo.com,New Delhi,home & kitchen,Curtains,2631.47,2.0,15,Debit Card,DELIVERED,31/13/2024
+10328,Sunita Naidu,sunita.naidu30@gmail.com,lucknow,Electronics,Wireless Mouse,3045.06,2.0,0,DC,returned,29/07/2024
+10693,Krishna Rao,krishna.rao99@yahoo.com,PUNE,Groceries,Wheat Atta 5kg,167.03,5.0,0,Net Banking,shipped,03 Nov 2024
+10415,Priya Kumar,priya.kumar72@yahoo.com,Hyderabad,Electronics ,Power Bank,1762.88,4.0,5,UPI,Shipped,03/01/2024
+10466,Sunita Mehta,sunita.mehta22@gmail.com,Calcutta,Home&Kitchen,Pressure Cooker,1699.46,3.0,0,DC,DELIVERED,11 May 2024
+10548,Anika Iyer,anika.iyer190@gmail.com,jaipur,beauty,Hair Oil,₹1125.04,4.0,0,Upi,DELIVERED,14-03-2025
+10391,Ramesh Patel,ramesh.patel118@gmail.com,PUNE,Sports,Dumbbell Set,906.04,2.0,0,Cash On Delivery,CANCELLED,2025-05-27
+10206,Vihaan Malhotra,vihaan.malhotra172@yahoo.com,Hyderbad,Groceries,Basmati Rice 5kg,582.67,1.0,10,Cash On Delivery,DELIVERED,24-07-2024
+10550,IRA SHARMA,ira.sharma164@gmail.com,Jaipur,toys,Action Figure,1356.66,1.0,15%,Debit Card,Cancelled,16/05/2024
+10529,Ramesh Mehta,ramesh.mehta58@gmail.com,Bengaluru,Beauty ,Shampoo 400ml,1185.78,4.0,5,debit card,pending,02/01/2024
+10054,KIRAN VERMA,kiran.verma98@gmail.com,pune,Grocery,Salt 1kg,318.18,1.0,0,debit card,shipped,2024-04-15
+10205,Vivaan Chatterjee,vivaan.chatterjee218@yahoo.com,Bengaluru,Home & Kitchen,Water Bottle,1074.01,2.0,10,cod,shipped,13/03/2025
+10741,Riya Singh,,mumbai,home & kitchen,Curtains,497.44,1.0,10,Debit Card,Shipped,30/03/2024
+10603,Rahul Rao,rahul.rao1@yahoo.com,,CLOTHING,Formal Shirt,699.93,3.0,20,Credit Card,Returned,06-07-2024
+10783,Kavya Naidu,kavya.naidu217@gmail.com,Madras,BEAUTY,Shampoo 400ml,156.22,,10,cod,DELIVERED,2024-11-12
+10443,Ananya Verma,ananya.verma21@yahoo.com,DELHI,Sports,Yoga Mat,738.94,1.0,15,Upi,returned,20-02-2025
+10187,Reyansh Iyer,reyansh.iyer116@yahoo.com,Hyderabad,toys,Remote Control Car,1045.29,2.0,5,Credit Card,Canceled,2024-03-19
+10506,AMIT NAIR,amit.nair74@gmail.com,Calcutta,grocery,Sugar 1kg,,4.0,20,debit card,returned,03-02-2025
+10460,AMIT JOSHI,amit.joshi178@gmail.com,Bangalore,Groceries,Wheat Atta 5kg,104.38,,0,Credit Card,returned,05/05/2025
+10492,Neha Kapoor,neha.kapoor62@gmail.com,Bangalore,toys,Doll House,936.79,2.0,15,Credit Card,returned,07/10/2024
+10297,Saanvi Joshi,saanvi.joshi47@yahoo.com,Ahmedabad,Beauty ,Face Wash,₹533.22,1.0,20,Net Banking,Cancelled,04/12/2024
+10795,Priya Kapoor,priya.kapoor230@gmail.com,ahmedabad,Grocery,Toor Dal 1kg,485.58,1.0,5,debit card,pending,29 Feb 2024
+10493,Rahul Das,rahul.das193@yahoo.com,Ahmedabad,Grocery,Basmati Rice 5kg,787.8,1.0,0,DC,Returned,
+10245,Sai Singh,sai.singh204@yahoo.com,Hyderabad,Books,Fiction Novel,437.67,1.0,5,COD,Canceled,12/29/2024
+10139,Rahul Joshi,rahul.joshi17@gmail.com,Bombay,Book,History of India,₹594.46,5.0,20,Credit Card,cancelled,02/02/2024
+10494,Vijay Kumar,vijay.kumar38@yahoo.com,jaipur,sports,Skipping Rope,2239.76,2.0,5,CC,Pending,04/30/2025
+10667,Kiran Reddy,kiran.reddy83@gmail.com,delhi,Sports,Badminton Racket,890.13,2.0,0,cod,Shipped,2025-04-04
+10221,Divya Kapoor,divya.kapoor46@yahoo.com,DELHI,grocery,Salt 1kg,,4.0,15,UPI,DELIVERED,
+10262,,kiran.naidu100@yahoo.com,lucknow,Groceries,Tea Powder 500g,198.03,3.0,20,DC,Delivered,22 Jan 2024
+10062,Suresh Rao,suresh.rao105@yahoo.com,Kolkata,toys,Doll House,1477.26,5.0,5,DC,pending,16 Jul 2025
+10798,Kavya Iyer,kavya.iyer7@yahoo.com,Hyderbad,Grocery,Wheat Atta 5kg,257.52,3.0,0,Net Banking,Pending,16/05/2025
+10361,Vihaan Iyer,vihaan.iyer112@gmail.com,MUMBAI,clothing,Jacket,1526.02,2.0,15,upi,Canceled,25-08-2024
+10337,Vijay Nair,vijay.nair130@gmail.com,Madras,Toy,Doll House,299.18,1.0,0,Net Banking,Delivered,25/05/2024
+10468,Myra Patel,myra.patel127@gmail.com,Jaipur,home & kitchen,Curtains,2866.78,1.0,0,Net Banking,Returned,03/04/2025
+10420,Suresh Das,suresh.das248@gmail.com,Bangalore,home & kitchen,Water Bottle,1670.82,1.0,0%,NetBanking,CANCELLED,01-04-2024
+10265,Sunita Kumar,sunita.kumar102@gmail.com,,books,Self Help Guide,549.11,4.0,10,Net Banking,Returned,20/07/2025
+10408,Vihaan Iyer,vihaan.iyer112@gmail.com,Bombay,BEAUTY,Lipstick,1498.59,1.0,15,credit card,Cancelled,11 May 2024
+10149,Kiran Verma,,PUNE,Home and Kitchen,Mixer Grinder,992.19,1.0,5,COD,Returned,16/03/2025
+10777,Ananya Kumar,ananya.kumar188@gmail.com,ahmedabad,home & kitchen,Water Bottle,2098.26,3.0,5,Cash On Delivery,shipped,31/01/2025
+10514,Rahul Sharma,rahul.sharma135@yahoo.com,Bangalore,clothing,Hoodie,873.51,1.0,20,credit card,delivered,2025-07-13
+10064,Rohan Patel,rohan.patel69@gmail.com,hyderabad,Clothes,Formal Shirt,2417.1,4.0,0,DC,Canceled,02/28/2025
+10176,Reyansh Iyer,reyansh.iyer18@yahoo.com,bengaluru,Home & Kitchen,Non-stick Pan,₹1467.6,5.0,0,Upi,Returned,15-04-2025
+10014,Divya Reddy,divya.reddy80@gmail.com,Hyderabad,Sport,Badminton Racket,271.9,1.0,10,debit card,Returned,13-01-2025
+10761,Riya Chatterjee,riya.chatterjee154@gmail.com,Delhi,Toy,Building Blocks,1055.89,2.0,0,DC,delivered,06-03-2024
+10617,Priya Rao,priya.rao36@yahoo.com,Chennai,sports,Badminton Racket,1248.58,1.0,0,Cash on Delivery,Pending,02-09-2024
+10553,Anika Iyer,anika.iyer190@gmail.com,jaipur,Book,Self Help Guide,961.04,4.0,20,Debit Card,returned,07 Sep 2024
+,,,,,,,,,,,
+10782,  Reyansh Gupta  ,reyansh.gupta131@gmail.com,Hyd,Electronic,Earbuds,2691.02,2.0,10,credit card,returned,2024-05-30
+10169,Neha Rao,neha.rao120@gmail.com,Chennai,Clothing,Denim Jeans,838.51,1.0,15,NB,pending,07-03-2025
+10511,Priya Chatterjee,priya.chatterjee45@yahoo.com,Kolkata,Grocery,Wheat Atta 5kg,-675.85,1.0,0,COD,Canceled,11/02/2024
+10652,Kavya Malhotra,kavya.malhotra77@gmail.com,jaipur,electronics,Bluetooth Speaker,3911.45,1.0,10,Credit Card,CANCELLED,28 Mar 2025
+10508,Riya Bose,riya.bose196@gmail.com,PUNE,books,Cook Book,740.62,2.0,10,CREDIT CARD,cancelled,2024-11-28
+10587,,kavya.verma177@gmail.com,PUNE,Clothes,Jacket,1625.09,2.0,5,DC,CANCELLED,29 May 2025
+10448,Kavya Naidu,kavya.naidu217@gmail.com,Chennai,books,Business Strategy,887.38,5.0,5,net banking,delivered,25/06/2024
+10135,Ramesh Kapoor,ramesh.kapoor88@gmail.com,mumbai,books,Cook Book,816.87,5.0,0,CREDIT CARD,returned,2024-01-13
+10642,,arjun.iyer87 at yahoo.com,bengaluru,Grocery,Wheat Atta 5kg,219.89,1.0,10,Debit Card,Cancelled,12/08/2024
+10254,Ramesh Mehta,ramesh.mehta58@gmail.com,Bengaluru,Books,Biography,731.9,4.0,20,Debit Card,returned,25/01/2025
+10373,  Krishna Nair  ,krishna.nair2 at yahoo.com,Bombay,Beauty ,Hair Oil,230.75,3.0,0%,CC,DELIVERED,02/01/2024
+10625,Ira Iyer,ira.iyer201@yahoo.com,Lucknow,Home and Kitchen,Storage Container Set,620.81,3.0,10,Debit Card,Pending,13 Jul 2024
+10141,Kiran Kapoor,kiran.kapoor146@gmail.com,Bangalore,Groceries,Salt 1kg,683.19,3.0,15,NetBanking,shipped,26-12-2024
+10526,Reyansh Gupta,reyansh.gupta131@gmail.com,hyderabad,Groceries,Salt 1kg,535.24,5.0,15,upi,Delivered,
+10180,Krishna Nair,krishna.nair2@yahoo.com,mumbai,Groceries,Toor Dal 1kg,649.73,,5,Upi,cancelled,08 Feb 2024
+10386,Divya Chowdary,divya.chowdary158@gmail.com,Lucknow,Home & Kitchen,Non-stick Pan,1433.98,5.0,0%,Cash On Delivery,returned,01/06/2024
+10049,Divya Chowdary,divya.chowdary12@gmail.com,Bangalore,home & kitchen,LED Bulb,252.53,4.0,0%,upi,pending,21-06-2024
+10301,Saanvi Joshi,,ahmedabad,Book,Children's Story Book,420.42,4.0,5,debit card,pending,29 Jun 2025
+10615,Saanvi Pillai,saanvi.pillai216@gmail.com,Ahmedabad,Beauty,Sunscreen SPF50,967.12,4.0,0,Cash on Delivery,shipped,03/03/2025
+10383,Pooja Joshi,pooja.joshi96@gmail.com,lucknow,Toys,Board Game,1718.5,3.0,0,Debit Card,shipped,21 Jul 2024
+10471,Riya Verma,riya.verma241@gmail.com,ahmedabad,Home and Kitchen,Water Bottle,1540.09,4.0,0,debit card,shipped,10/06/2024
+10210,Sai Nair,sai.nair220@gmail.com,Bombay,Toys,Doll House,213.16,4.0,0,NetBanking,Pending,2024-10-07
+10099,Amit Kapoor,amit.kapoor3@gmail.com,bengaluru,grocery,Sunflower Oil 1L,328.36,5.0,10,NB,pending,07/03/2025
+10016,KRISHNA IYER,krishna.iyer144@gmail.com,ahmedabad,Sport,Cricket Bat,1738.02,1.0,5%,NetBanking,delivered,24 Jun 2024
+10309,Neha Das,neha.das106@gmail.com,Delhi,Toys,Action Figure,1778.34,1.0,10,upi,Pending,08/16/2024
+10061,Kavya Rao,kavya.rao81@gmail.com,Bangalore,CLOTHING,Kurti,970.84,50.0,0,debit card,cancelled,16-05-2025
+10047,Kavya Malhotra,kavya.malhotra77@gmail.com,Jaipur,Grocery,Ghee 1L,826.53,4.0,5,NetBanking,Cancelled,10/01/2024
+10740,Krishna Pillai,krishna.pillai186@yahoo.com,Lucknow,Toy,Building Blocks,931.84,2.0,0,CREDIT CARD,Shipped,05 Jun 2025
+10432,Kavya Singh,kavya.singh213@yahoo.com,Bangalore,sports,Football,3950.57,,0,NetBanking,returned,01/11/2024
+10557,Ira Reddy,ira.reddy43@yahoo.com,Jaipur,Sports,Yoga Mat,595.78,2.0,5,CREDIT CARD,Delivered,2025-05-26
+10745,,reyansh.chowdary109@gmail.com,Pune,Clothing,Saree,2187.88,1.0,20,DC,DELIVERED,06/28/2024
+10356,Anika Das,anika.das222@gmail.com,chennai,Book,Biography,450.21,4.0,15,Credit Card,returned,02/22/2025
+10058,DIVYA CHOWDARY,divya.chowdary12@gmail.com,Bangalore,books,Children's Story Book,969.86,4.0,0,net banking,delivered,17-04-2024
+10635,,priya.rao36@yahoo.com,chennai,Books,History of India,421.93,1.0,15,COD,CANCELLED,02/11/2024
+10295,Priya Kumar,,,grocery,Sugar 1kg,791.38,1.0,15,cod,shipped,05/16/2024
+10563,Amit Mehta,amit.mehta119 at gmail.com,,Book,Data Science Handbook,242.98,1.0,20,net banking,pending,04/02/2024
+10750,Riya Pillai,riya.pillai141@yahoo.com,MUMBAI,Home and Kitchen,Bedsheet Set,1257.03,5.0,20,,Delivered,17 Sep 2024
+10700,Rahul Rao,rahul.rao1@yahoo.com,hyderabad,Books,Biography,747.05,4.0,0%,Cash On Delivery,pending,06-06-2025
+10359,Vihaan Reddy,vihaan.reddy95@gmail.com,Mumbai,Home & Kitchen,Water Bottle,3306.96,4.0,15,NB,Delivered,2024-10-12
+10109,Anika Iyer,anika.iyer232@gmail.com,Hyd,Home & Kitchen,Non-stick Pan,2451.42,3.0,5,cod,shipped,2025-05-13
+10260,,krishna.nair2@yahoo.com,Mumbai,ELECTRONICS,Power Bank,3927.73,2.0,0,DC,Cancelled,20/06/2024
+10566,Divya Pillai,divya.pillai107@gmail.com,Pune,books,Fiction Novel,413.01,3.0,15,Net Banking,Delivered,25 Sep 2024
+10382,Priya Joshi,priya.joshi245@yahoo.com,lucknow,Books,Self Help Guide,288.01,1.0,5,debit card,shipped,2025-04-10
+10055,Riya Sharma,riya.sharma63@yahoo.com,bengaluru,grocery,Salt 1kg,193.08,2.0,0,CC,CANCELLED,07/19/2024
+10681,Rohan Patel,,Hyderabad,home & kitchen,Non-stick Pan,2316.95,4.0,20,credit card,Cancelled,06/03/2025
+10456,Myra Patel,myra.patel127@gmail.com,Jaipur,Electronics,Power Bank,2929.14,1.0,0,cod,CANCELLED,05/08/2024
+10728,Vihaan Naidu,vihaan.naidu180@yahoo.com,PUNE,Books,Business Strategy,-263.73,1.0,0,upi,returned,23 Mar 2024
+10418,Ira Patel,ira.patel65@yahoo.com,Kolkata,Sports,Running Shoes,2750.17,2.0,0,Cash On Delivery,DELIVERED,14 May 2025
+10192,Diya Mehta,diya.mehta114@yahoo.com,Kolkata,books,Business Strategy,394.34,4.0,15,NetBanking,shipped,2024-03-31
+10252,Ramesh Malhotra,ramesh.malhotra26@yahoo.com,Calcutta,clothing,Denim Jeans,1091.52,,0,COD,shipped,09-01-2024
+10111,  Kavya Chowdary  ,kavya.chowdary173@yahoo.com,kolkata,Clothing,Cotton T-Shirt,1710.13,1.0,20,Upi,delivered,03/24/2025
+10154,Arjun Das,arjun.das44@gmail.com,jaipur,Sports,Football,,1.0,0,credit card,DELIVERED,2024-09-16
+10372,Priya Iyer,priya.iyer82@yahoo.com,Bombay,CLOTHING,Kurti,2400.79,2.0,15%,UPI,returned,12/20/2024
+10389,Anika Das,anika.das222@gmail.com,chennai,Groceries,Salt 1kg,516.56,,20,Upi,Pending,02/17/2025
+10388,  Ramesh Malhotra  ,ramesh.malhotra54@gmail.com,Lucknow,Sport,Skipping Rope,1343.34,3.0,5,NB,delivered,07/23/2025
+10654,Ira Chowdary,ira.chowdary24@gmail.com,Ahmedabad,Toy,Toy Kitchen Set,-475.16,50.0,10,Debit Card,Delivered,08/12/2024
+10272,Riya Verma,riya.verma241 at gmail.com,Ahmedabad,Toys,Remote Control Car,1520.7,2.0,10,Upi,Pending,2025-04-01
+10559,Suresh Rao,suresh.rao171@yahoo.com,MUMBAI,beauty,Sunscreen SPF50,308.48,2.0,0,UPI,Returned,02 Jun 2024
+10535,Ira Reddy,ira.reddy43@yahoo.com,jaipur,CLOTHING,Denim Jeans,1625.44,1.0,5%,cod,cancelled,2025-04-03
+10593,Ira Iyer,ira.iyer201@yahoo.com,Lucknow,ELECTRONICS,Laptop Stand,2882.7,1.0,5,Cash On Delivery,Pending,04/10/2025
+10354,Ananya Chowdary,ananya.chowdary156@yahoo.com,Bombay,toys,Toy Kitchen Set,769.49,2.0,20,credit card,pending,22-03-2024
+10744,Sai Naidu,sai.naidu8@gmail.com,Pune,ELECTRONICS,Bluetooth Speaker,2488.6,4.0,0,Upi,DELIVERED,01/20/2024
+10143,SAI CHOWDARY,sai.chowdary66@yahoo.com,Hyderbad,Beauty,Sunscreen SPF50,897.68,2.0,15,cod,shipped,2024-03-21
+10240,Sai Naidu,sai.naidu8@gmail.com,PUNE,Toys,Remote Control Car,834.39,4.0,20,NetBanking,Pending,2024-08-14
+10568,Riya Pillai,riya.pillai244@gmail.com,Kolkata,Electronics ,LED Monitor,2606.5,2.0,0,cod,DELIVERED,2025-04-01
+10051,Divya Bose,divya.bose39@gmail.com,Hyderbad,Home and Kitchen,Bedsheet Set,2244.28,2.0,20,debit card,DELIVERED,2024-02-02
+10707,Arjun Iyer,arjun.iyer205@yahoo.com,Hyderabad,BEAUTY,Face Wash,1042.23,3.0,20,UPI,cancelled,08/02/2025
+10501,Reyansh Patel,reyansh.patel219@yahoo.com,Chennai,Clothing,Track Pants,548.42,2.0,20,Debit Card,Shipped,16 Jul 2025
+10329,Amit Malhotra,amit.malhotra233@yahoo.com,Lucknow,Home&Kitchen,LED Bulb,1238.87,1.0,0,UPI,Returned,2024-06-23
+10790,Rohan Singh,rohan.singh125@gmail.com,delhi,Toy,Soft Toy Bear,1530.52,1.0,20%,CC,delivered,2024-05-10
+10565,Priya Rao,priya.rao115@yahoo.com,Calcutta,Books,Biography,655.74,5.0,0%,Cash On Delivery,pending,03/23/2025
+10398,Kavya Nair,kavya.nair50@gmail.com,Hyderbad,Toy,Building Blocks,652.15,120.0,10,upi,Canceled,08 Oct 2024
+10067,Reyansh Chowdary,reyansh.chowdary109@gmail.com,pune,Grocery,Ghee 1L,109.2,4.0,0,Debit Card,DELIVERED,06/17/2024
+10583,Ira Reddy,ira.reddy43@yahoo.com,jaipur,Electronic,Laptop Stand,2831.3,2.0,15,Cash on Delivery,Returned,12-01-2025
+10010,Vihaan Naidu,vihaan.naidu56@gmail.com,pune,Home & Kitchen,Storage Container Set,2754.42,1.0,0,,Canceled,17/01/2024
+10588,Kavya Verma,kavya.verma177@gmail.com,pune,electronics,Smartwatch,4967.76,3.0,5,upi,DELIVERED,07/07/2025
+10147,Amit Joshi,amit.joshi178@gmail.com,bengaluru,Electronics,Power Bank,3080.82,1.0,0,CREDIT CARD,Returned,20-01-2024
+10368,,amit.mehta119@gmail.com,Lucknow,toys,Remote Control Car,,4.0,15,Credit Card,Pending,06/21/2025
+10307,Amit Chatterjee,amit.chatterjee129@gmail.com,PUNE,sports,Cycling Gloves,3194.07,3.0,0,Debit Card,Shipped,05 Jun 2024
+10582,Kiran Naidu,kiran.naidu100@yahoo.com,lucknow,electronics,Wireless Mouse,3897.27,1.0,0,Debit Card,shipped,2025-03-30
+10253,Anika Das,anika.das222@gmail.com,chennai,books,History of India,₹341.89,2.0,5,UPI,CANCELLED,03/03/2025
+10595,Rahul Verma,rahul.verma166 at yahoo.com,Hyderbad,Groceries,Sugar 1kg,127.12,4.0,0,CREDIT CARD,returned,29/09/2024
+10558,Suresh Rao,suresh.rao105@yahoo.com,Kolkata,Toy,Puzzle Set,295.31,1.0,0%,CREDIT CARD,returned,11/09/2024
+10065,RAHUL RAO,rahul.rao1@yahoo.com,Hyderbad,CLOTHING,Jacket,₹1695.65,3.0,20,upi,Returned,11-05-2025
+10688,Sunita Mehta,sunita.mehta22@gmail.com,Kolkata,Grocery,Basmati Rice 5kg,544.84,2.0,15,DC,returned,06/04/2024
+10519,Arjun Das,arjun.das44@gmail.com,jaipur,BEAUTY,Perfume,515.62,1.0,0,UPI,delivered,10/25/2024
+10189,Priya Joshi,,Lucknow,Grocery,Sunflower Oil 1L,654.04,2.0,0,CC,pending,13/01/2025
+10358,Kavya Rao,kavya.rao81@gmail.com,bengaluru,Clothes,Track Pants,925.54,1.0,0,Cash on Delivery,Returned,08/04/2024
+10427,Vivaan Mehta,vivaan.mehta52@gmail.com,Bengaluru,Home & Kitchen,Storage Container Set,3451.6,1.0,0,UPI,Shipped,05-01-2024
+10541,Ramesh Bose,ramesh.bose140@yahoo.com,Calcutta,books,Business Strategy,480.92,2.0,10,Credit Card,pending,06/28/2025
+10627,Reyansh Reddy,reyansh.reddy174@yahoo.com,lucknow,grocery,Toor Dal 1kg,868.11,5.0,15,NB,pending,14/05/2024
+10658,Saanvi Iyer,saanvi.iyer20@gmail.com,jaipur,Groceries,Ghee 1L,564.69,4.0,0,DC,returned,2024-07-01
+10675,KAVYA SINGH,kavya.singh213@yahoo.com,Bangalore,Sports,Yoga Mat,3078.54,5.0,15,Credit Card,Shipped,11/01/2024
+10734,Amit Nair,amit.nair74@gmail.com,kolkata,Home and Kitchen,Curtains,1214.25,2.0,0%,Cash On Delivery,Pending,18-06-2024
+10776,Kiran Malhotra,kiran.malhotra42@gmail.com,Bangalore,Groceries,Wheat Atta 5kg,743.13,2.0,5,NB,Shipped,11/05/2024
+,,,,,,,,,,,
+10233,  Ira Sharma  ,ira.sharma40@yahoo.com,BANGALORE,Clothes,Track Pants,969.83,3.0,0,UPI,Pending,05 May 2024
+10317,Kiran Verma,kiran.verma98@gmail.com,PUNE,Electronic,USB-C Charger,4922.71,3.0,0%,Upi,Delivered,24 Jan 2024
+10676,Neha Rao,neha.rao16@gmail.com,Kolkata,Sports,Cricket Bat,3457.44,1.0,0,Net Banking,shipped,07/29/2024
+10271,Priya Rao,priya.rao36@yahoo.com,Madras,Electronic,Bluetooth Speaker,4396.42,2.0,15,Cash On Delivery,DELIVERED,2024-11-25
+10660,Krishna Chowdary,krishna.chowdary147@yahoo.com,MUMBAI,books,Business Strategy,167.35,1.0,10,cod,DELIVERED,17 Jul 2024
+10757,Anika Iyer,anika.iyer190 at gmail.com,jaipur,Clothing,Denim Jeans,,5.0,0,Net Banking,Pending,31/13/2024
+10286,KRISHNA GUPTA,krishna.gupta226@yahoo.com,Chennai,Electronic,LED Monitor,,2.0,0,debit card,Returned,2025-07-06
+10193,  SUNITA VERMA  ,sunita.verma11@gmail.com,ahmedabad,BEAUTY,Moisturizer,790.74,5.0,0,net banking,Cancelled,02-05-2024
+10768,Reyansh Reddy,reyansh.reddy191@yahoo.com,delhi,Beauty ,Perfume,912.03,4.0,0,Upi,pending,2025-07-14
+10640,Ananya Sharma,ananya.sharma49@gmail.com,Lucknow,Books,Self Help Guide,₹941.87,1.0,0,Credit Card,pending,05/31/2025
+10763,Aadhya Kumar,aadhya.kumar34@gmail.com,Ahmedabad,clothing,Saree,884.16,1.0,10,credit card,Canceled,2024-05-18
+10759,ISHAAN DAS,ishaan.das53@gmail.com,delhi,Home & Kitchen,Storage Container Set,2577.75,1.0,0,Cash on Delivery,pending,13 Feb 2024
+10736,Neha Das,neha.das106@gmail.com,Delhi,CLOTHING,Hoodie,787.68,2.0,0,upi,pending,05/14/2024
+10075,Reyansh Iyer,reyansh.iyer116@yahoo.com,hyderabad,BEAUTY,Lipstick,203.56,2.0,0,Net Banking,CANCELLED,11/11/2024
+10243,Kavya Iyer,kavya.iyer7@yahoo.com,,Home&Kitchen,Mixer Grinder,3359.66,2.0,0,CC,Cancelled,29/04/2025
+10230,Aditya Singh,aditya.singh194@gmail.com,Delhi,grocery,Basmati Rice 5kg,72.71,2.0,0,Upi,Delivered,05/07/2024
+10129,Krishna Reddy,krishna.reddy185@yahoo.com,chennai,Sport,Cycling Gloves,1374.13,1.0,5,CREDIT CARD,returned,03 Jan 2025
+10639,,pooja.naidu153@yahoo.com,jaipur,Books,History of India,430.15,3.0,15%,COD,returned,19-07-2025
+10110,Vijay Chowdary,,chennai,Home & Kitchen,Mixer Grinder,2956.69,2.0,10,Debit Card,Returned,2024-03-30
+10026,KAVYA RAO,kavya.rao81@gmail.com,Bengaluru,BEAUTY,Perfume,1483.77,5.0,0,UPI,pending,03/26/2025
+10453,Riya Bose,,pune,books,Fiction Novel,₹462.34,1.0,5,NetBanking,shipped,18/10/2024
+10452,Rohan Chowdary,rohan.chowdary124 at yahoo.com,Jaipur,Groceries,Sugar 1kg,862.17,5.0,0,Cash on Delivery,DELIVERED,18 Jul 2024
+10569,Anika Iyer,anika.iyer232 at gmail.com,HYDERABAD,Groceries,Toor Dal 1kg,₹124.67,1.0,20,credit card,shipped,2024-05-30
+10737,,ira.kapoor192@yahoo.com,delhi,Electronic,Wireless Mouse,1085.1,5.0,15,Cash On Delivery,Canceled,02/25/2025
+10306,Sunita Kumar,sunita.kumar102@gmail.com,Calcutta,Home and Kitchen,Storage Container Set,2680.08,3.0,0,CREDIT CARD,delivered,14/06/2024
+10257,Kavya Malhotra,kavya.malhotra77@gmail.com,Jaipur,Books,Self Help Guide,501.79,1.0,10,Net Banking,Canceled,04-07-2025
+10541,Ramesh Bose,ramesh.bose140@yahoo.com,Calcutta,books,Business Strategy,480.92,2.0,10,Credit Card,pending,06/28/2025
+10657,Kavya Chowdary,kavya.chowdary173@yahoo.com,kolkata,Home & Kitchen,Storage Container Set,3161.45,5.0,15,NB,DELIVERED,02/14/2024
+10100,Kiran Verma,kiran.verma98@gmail.com,Pune,Sport,Yoga Mat,3483.66,1.0,5,UPI,Shipped,12 Dec 2024
+10025,AMIT NAIDU,amit.naidu121@gmail.com,PUNE,Electronics,Power Bank,4911.78,2.0,15,cod,returned,06/28/2024
+10502,RIYA SINGH,riya.singh86@yahoo.com,bengaluru,Beauty,Face Wash,290.65,1.0,10,UPI,Shipped,24-03-2024
+10223,Reyansh Iyer,reyansh.iyer116@yahoo.com,Hyderbad,Home&Kitchen,Bedsheet Set,1171.94,,0,cod,pending,09 Jun 2025
+10284,Ira Sharma,ira.sharma40@yahoo.com,Bangalore,grocery,Sunflower Oil 1L,370.98,2.0,0,net banking,returned,29-05-2025
+10663,Diya Singh,diya.singh152@yahoo.com,Kolkata,Sport,Dumbbell Set,313.83,3.0,5,upi,DELIVERED,2025-05-06
+10219,Vijay Das,vijay.das207@yahoo.com,BANGALORE,Beauty ,Shampoo 400ml,601.66,1.0,20,CREDIT CARD,Shipped,03/20/2025
+10534,  Rohan Kapoor  ,rohan.kapoor122@gmail.com,Bombay,Books,Data Science Handbook,983.69,1.0,20%,Debit Card,Delivered,17-11-2024
+10396,Vivaan Sharma,vivaan.sharma4@gmail.com,bengaluru,Home & Kitchen,Bedsheet Set,1398.75,1.0,5,CREDIT CARD,cancelled,19/09/2024
+10390,Rahul Nair,rahul.nair175@yahoo.com,Bangalore,Clothing,Saree,,4.0,5,Cash On Delivery,Returned,19 Jun 2024
+10071,Ira Iyer,ira.iyer201@yahoo.com,lucknow,Beauty,Shampoo 400ml,619.62,2.0,15,Upi,delivered,11 Apr 2025
+10607,Vihaan Naidu,vihaan.naidu56 at gmail.com,pune,Grocery,Tea Powder 500g,753.18,1.0,5%,NetBanking,DELIVERED,10 Jul 2024
+10467,Pooja Chatterjee,pooja.chatterjee13@gmail.com,pune,Beauty ,Sunscreen SPF50,1076.5,5.0,0,credit card,Delivered,05/08/2025
+10486,VIJAY KUMAR,vijay.kumar235@gmail.com,Ahmedabad,Home and Kitchen,Non-stick Pan,3469.39,1.0,20,Net Banking,pending,01/16/2025
+10673,Neha Das,neha.das210@yahoo.com,,grocery,Sugar 1kg,498.49,2.0,15%,cod,returned,11-04-2024
+10393,Vivaan Rao,vivaan.rao29@yahoo.com,Mumbai,Groceries,Tea Powder 500g,399.96,3.0,0,CREDIT CARD,Pending,23-09-2024
+10490,Anika Bose,anika.bose85 at yahoo.com,hyderabad,CLOTHING,Cotton T-Shirt,2490.89,1.0,0,CC,Shipped,18/10/2024
+10717,REYANSH MEHTA,reyansh.mehta9@gmail.com,,Sports,Football,,4.0,10%,Net Banking,Returned,11-02-2025
+10464,Arjun Iyer,arjun.iyer205@yahoo.com,hyderabad,Clothing,Jacket,616.58,1.0,15%,,Returned,31/07/2024
+10797,Priya Chatterjee,priya.chatterjee45@yahoo.com,Calcutta,Electronics,USB-C Charger,4048.8,1.0,0,DC,Pending,03/07/2025
+10500,KAVYA SINGH,kavya.singh208@gmail.com,Ahmedabad,Electronic,Earbuds,,4.0,0,debit card,Pending,27-06-2025
+10447,Ananya Verma,ananya.verma21@yahoo.com,Delhi,Toy,Building Blocks,1957.9,1.0,0,upi,pending,26-05-2025
+10290,Reyansh Gupta,reyansh.gupta131@gmail.com,Hyderbad,Groceries,Wheat Atta 5kg,287.97,1.0,20%,credit card,Shipped,2024-08-22
+10172,Krishna Kumar,krishna.kumar136@gmail.com,Jaipur,Book,Data Science Handbook,394.47,5.0,5,upi,returned,03-10-2024
+10397,Kavya Singh,kavya.singh213@yahoo.com,BANGALORE,Clothing,Formal Shirt,1448.63,99.0,0,Upi,Pending,2025-03-28
+10229,Reyansh Reddy,reyansh.reddy191@yahoo.com,New Delhi,Sport,Badminton Racket,278.63,2.0,10%,Cash On Delivery,Pending,2024-11-04
+10412,Reyansh Mehta,reyansh.mehta9@gmail.com,BANGALORE,Home and Kitchen,LED Bulb,1508.32,1.0,10,NetBanking,DELIVERED,13 Oct 2024
+10781,Priya Kumar,priya.kumar72@yahoo.com,Hyderbad,CLOTHING,Kurti,891.05,1.0,10,debit card,Canceled,22/04/2024
+10545,Rahul Nair,rahul.nair175@yahoo.com,Bengaluru,Beauty,Moisturizer,412.89,2.0,0,NB,Canceled,29-08-2024
+10023,Kavya Iyer,kavya.iyer7@yahoo.com,HYDERABAD,Book,Data Science Handbook,485.99,3.0,0,UPI,returned,
+10665,Myra Rao,,DELHI,grocery,Toor Dal 1kg,566.64,3.0,0,NetBanking,pending,08-07-2025
+10363,  Ramesh Mehta  ,ramesh.mehta103@yahoo.com,Kolkata,beauty,Face Wash,474.64,2.0,0,COD,DELIVERED,
+10003,Rohan Singh,rohan.singh223@gmail.com,Ahmedabad,Clothes,Jacket,518.37,5.0,0,Upi,delivered,06/30/2025
+10278,DIYA SINGH,diya.singh152@yahoo.com,Calcutta,Books,Self Help Guide,681.93,4.0,0,Net Banking,pending,31/13/2024
+10274,Reyansh Malhotra,reyansh.malhotra23@gmail.com,pune,Clothing,Denim Jeans,1047.52,2.0,15%,UPI,CANCELLED,09-03-2025
+10786,Amit Naidu,amit.naidu121@gmail.com,PUNE,Electronics,Wireless Mouse,3657.78,4.0,0,cod,pending,2024-09-22
+10701,Vijay Das,vijay.das207@yahoo.com,bengaluru,Beauty ,Face Mask Pack,1489.79,,0,net banking,Cancelled,12/10/2024
+10133,AMIT KAPOOR,amit.kapoor3@gmail.com,BANGALORE,Electronic,USB-C Charger,1980.87,5.0,10,Upi,DELIVERED,17/01/2025
+10200,Amit Joshi,amit.joshi178@gmail.com,Bangalore,CLOTHING,Formal Shirt,441.36,2.0,0,Upi,shipped,13-02-2025
+10116,Krishna Iyer,krishna.iyer224@yahoo.com,Lucknow,Grocery,Ghee 1L,847.3,1.0,0,cod,Pending,10-02-2024
+10352,Divya Reddy,divya.reddy61@yahoo.com,ahmedabad,Sport,Cricket Bat,539.55,5.0,0%,Net Banking,Returned,26-01-2024
+10672,Kiran Naidu,kiran.naidu100@yahoo.com,lucknow,Beauty ,Moisturizer,965.95,5.0,10,Upi,Returned,2025-06-14
+10626,Reyansh Chowdary,reyansh.chowdary109@gmail.com,pune,Books,Fiction Novel,580.18,1.0,5,NB,DELIVERED,11/06/2024
+10400,Krishna Pillai,krishna.pillai186@yahoo.com,lucknow,BEAUTY,Lipstick,1404.98,5.0,20,NetBanking,pending,01/06/2024
+10066,Aditya Iyer,aditya.iyer110@yahoo.com,pune,home & kitchen,LED Bulb,3110.09,,0,Debit Card,Returned,
+10591,  Aarav Malhotra  ,aarav.malhotra151@gmail.com,kolkata,Sports,Cricket Bat,₹379.76,2.0,15%,upi,shipped,2025-03-24
+10052,ROHAN KAPOOR,rohan.kapoor250@gmail.com,Hyd,Clothing,Cotton T-Shirt,804.49,5.0,0,,cancelled,2025-02-11
+10366,Arjun Das,arjun.das168@gmail.com,Bangalore,toys,Doll House,723.23,1.0,0,NetBanking,delivered,17 Aug 2024
+10531,Vihaan Naidu,vihaan.naidu56@gmail.com,PUNE,ELECTRONICS,LED Monitor,4119.21,1.0,15,CC,returned,08/07/2025
+10454,Vihaan Iyer,vihaan.iyer112@gmail.com,Mumbai,Sport,Running Shoes,916.49,1.0,15,debit card,Delivered,2024-06-04
+10570,Sai Kapoor,sai.kapoor19@gmail.com,delhi,Book,Cook Book,₹407.5,1.0,0,DC,shipped,2025-03-24
+10279,Arjun Nair,arjun.nair25@gmail.com,Jaipur,Groceries,Salt 1kg,460.56,4.0,0,CREDIT CARD,shipped,06 Mar 2024
+10327,Sai Naidu,sai.naidu8@gmail.com,PUNE,toys,Toy Kitchen Set,832.52,1.0,10%,CREDIT CARD,Delivered,01/26/2025
+10380,Sai Nair,sai.nair220@gmail.com,MUMBAI,Home & Kitchen,Mixer Grinder,496.55,2.0,0,NB,pending,19/04/2025
+10726,Saanvi Pillai,saanvi.pillai216@gmail.com,ahmedabad,ELECTRONICS,LED Monitor,2630.53,120.0,15%,Debit Card,Shipped,17-09-2024
+10704,Vijay Singh,vijay.singh15@yahoo.com,Bengaluru,home & kitchen,LED Bulb,405.19,2.0,0,Credit Card,Pending,2024-09-03
+10446,Ananya Sharma,ananya.sharma49@gmail.com,lucknow,Clothes,Denim Jeans,713.04,3.0,20,debit card,Returned,2025-06-27
+10736,Neha Das,neha.das106@gmail.com,Delhi,CLOTHING,Hoodie,787.68,2.0,0,upi,pending,05/14/2024
+10410,Priya Kapoor,priya.kapoor230@gmail.com,ahmedabad,Home & Kitchen,Pressure Cooker,1584.61,1.0,0,upi,Returned,26 Nov 2024
+10082,Suresh Das,suresh.das248@gmail.com,Bangalore,Home & Kitchen,Pressure Cooker,₹3290.07,1.0,0,,cancelled,10-03-2024
+10651,Arjun Nair,arjun.nair25@gmail.com,Jaipur,Home and Kitchen,Bedsheet Set,2587.71,2.0,15,Credit Card,Cancelled,2024-06-26
+10619,Aarav Malhotra,aarav.malhotra151@gmail.com,kolkata,Beauty ,Hair Oil,1424.79,3.0,0,CREDIT CARD,Returned,21/03/2024
+10178,Myra Naidu,myra.naidu149@gmail.com,Hyderabad,Home and Kitchen,Pressure Cooker,320.7,1.0,5,credit card,Returned,12 Apr 2025
+10273,Sai Pillai,sai.pillai84@yahoo.com,Jaipur,Book,Cook Book,336.32,2.0,15,Net Banking,Returned,07-03-2024
+10038,Ira Singh,ira.singh240@yahoo.com,kolkata,Beauty,Moisturizer,269.62,4.0,5,upi,Pending,25 Jul 2024
+10098,Anika Bose,anika.bose85@yahoo.com,Hyderabad,Home & Kitchen,Non-stick Pan,241.07,1.0,0,CC,pending,09/27/2024
+,,,,,,,,,,,
+10203,DIVYA CHOWDARY,divya.chowdary158@gmail.com,Lucknow,Sport,Skipping Rope,1450.81,1.0,10,upi,returned,25-02-2025
+10533,Vijay Chowdary,vijay.chowdary162@yahoo.com,Chennai,Home&Kitchen,Curtains,2317.84,1.0,0,NetBanking,DELIVERED,04/04/2025
+10237,NEHA RAO,neha.rao16@gmail.com,Kolkata,Sport,Cycling Gloves,2323.2,1.0,5,credit card,Canceled,02/20/2025
+10150,Priya Iyer,priya.iyer82@yahoo.com,Bombay,Book,Biography,406.85,2.0,0,DC,delivered,03/22/2024
+10218,Anika Bose,anika.bose85@yahoo.com,Hyderabad,Electronics ,LED Monitor,1893.61,1.0,0,Cash On Delivery,Returned,09/02/2024
+10780,,aditya.iyer110@yahoo.com,Pune,Electronics,Laptop Stand,₹4246.89,5.0,20,cod,Returned,05 Aug 2024
+10653,Saanvi Chatterjee,saanvi.chatterjee31@gmail.com,Ahmedabad,Books,Self Help Guide,334.05,1.0,0,Debit Card,Delivered,18/10/2024
+10264,Krishna Nair,krishna.nair2@yahoo.com,Mumbai,clothing,Jacket,452.97,2.0,0,DC,pending,17/06/2024
+10614,Amit Verma,amit.verma212@gmail.com,Mumbai,electronics,Earbuds,3689.14,2.0,20,Debit Card,Cancelled,2025-03-01
+10752,Ramesh Bose,ramesh.bose140@yahoo.com,Calcutta,Toy,Puzzle Set,258.71,4.0,15,debit card,Returned,26 Feb 2024
+10473,Neha Kapoor,neha.kapoor62@gmail.com,BANGALORE,Home and Kitchen,Storage Container Set,3407.72,2.0,20,COD,Returned,05 Jan 2025
+10767,Pooja Joshi,pooja.joshi96@gmail.com,lucknow,grocery,Sunflower Oil 1L,266.31,1.0,0,Upi,Cancelled,11/23/2024
+10194,Pooja Joshi,pooja.joshi96@gmail.com,Lucknow,ELECTRONICS,Smartwatch,1148.1,1.0,0,NetBanking,Returned,10/06/2025
+10236,Arjun Das,arjun.das44@gmail.com,jaipur,Beauty,Shampoo 400ml,354.74,1.0,0,upi,CANCELLED,27-11-2024
+10682,Ira Patel,ira.patel65 at yahoo.com,Calcutta,CLOTHING,Kurti,1877.41,1.0,10%,credit card,Pending,23-12-2024
+10056,Rohan Kapoor,rohan.kapoor250@gmail.com,HYDERABAD,Groceries,Sugar 1kg,321.57,2.0,5,net banking,returned,2025-01-08
+10303,  Rohan Singh  ,rohan.singh223@gmail.com,ahmedabad,Grocery,Basmati Rice 5kg,₹173.85,1.0,0,net banking,returned,25-02-2025
+10097,Ishaan Patel,ishaan.patel78@gmail.com,Pune,Book,Fiction Novel,712.11,2.0,10,CC,delivered,22 Jul 2024
+10142,  RIYA PILLAI  ,riya.pillai141@yahoo.com,Mumbai,BEAUTY,Hair Oil,1445.31,5.0,5,CC,Canceled,23-01-2024
+10571,Rohan Nair,rohan.nair145@gmail.com,chennai,Clothes,Hoodie,1609.5,1.0,20,DC,Shipped,04/19/2025
+10791,Ramesh Malhotra,ramesh.malhotra54@gmail.com,Lucknow,Clothes,Denim Jeans,984.0,2.0,5,credit card,Pending,11/28/2024
+10474,Arjun Iyer,arjun.iyer87@yahoo.com,bengaluru,Groceries,Ghee 1L,367.75,4.0,5,CC,pending,2024-01-04
+10413,KIRAN MALHOTRA,kiran.malhotra133@yahoo.com,DELHI,Beauty,Sunscreen SPF50,1193.74,4.0,15,cod,returned,04/08/2025
+10121,Kavya Verma,kavya.verma177@gmail.com,pune,Sport,Running Shoes,1607.51,1.0,5,Upi,CANCELLED,19 Jul 2025
+10335,Vijay Iyer,vijay.iyer234@gmail.com,lucknow,Electronics ,Power Bank,805.77,1.0,10,cod,Pending,2025-02-16
+10638,,vihaan.reddy95@gmail.com,Bombay,sports,Cycling Gloves,3250.32,1.0,20,upi,cancelled,2024-02-25
+10683,REYANSH IYER,reyansh.iyer116@yahoo.com,Hyd,toys,Puzzle Set,212.18,2.0,0,credit card,Returned,2025-07-18
+10431,Ananya Sharma,ananya.sharma49@gmail.com,Lucknow,Sports,Yoga Mat,₹3338.05,4.0,15%,net banking,Returned,07/27/2024
+10004,Ira Chowdary,ira.chowdary24@gmail.com,ahmedabad,books,Fiction Novel,795.31,1.0,5,upi,CANCELLED,03/07/2024
+10059,  Ishaan Verma  ,ishaan.verma113@gmail.com,Bengaluru,Toys,Board Game,319.91,1.0,20,DC,Canceled,07/27/2025
+10224,  Rahul Verma  ,rahul.verma166@yahoo.com,hyderabad,books,Business Strategy,248.4,3.0,5,DC,returned,14-05-2024
+10376,Ananya Verma,ananya.verma21@yahoo.com,delhi,Home and Kitchen,Water Bottle,2962.12,2.0,15,cod,Canceled,23/07/2024
+10102,Arjun Das,,bengaluru,Electronics ,Bluetooth Speaker,2254.82,1.0,10%,DC,returned,25/02/2024
+10222,Ishaan Patel,,PUNE,Sports,Running Shoes,3266.4,1.0,0,debit card,CANCELLED,05/07/2025
+10319,SURESH KAPOOR,suresh.kapoor6@gmail.com,Calcutta,grocery,Wheat Atta 5kg,785.84,1.0,0,upi,delivered,18-07-2025
+10431,Ananya Sharma,ananya.sharma49@gmail.com,Lucknow,Sports,Yoga Mat,₹3338.05,4.0,15%,net banking,Returned,07/27/2024
+10053,ANANYA VERMA,ananya.verma21@yahoo.com,DELHI,sports,Yoga Mat,615.32,2.0,20,CC,pending,21-08-2024
+10018,Ishaan Verma,ishaan.verma113@gmail.com,bengaluru,Clothing,Jacket,1271.86,2.0,20,CC,DELIVERED,02 Apr 2024
+10156,Myra Naidu,myra.naidu149@gmail.com,Hyderbad,Sports,Yoga Mat,598.22,2.0,0,upi,returned,06/23/2025
+10552,Ira Chowdary,ira.chowdary24@gmail.com,ahmedabad,Toy,Doll House,1818.37,2.0,15,net banking,cancelled,29/03/2025
+10249,Myra Kumar,myra.kumar160@gmail.com,HYDERABAD,Book,Fiction Novel,249.72,1.0,20,Debit Card,Shipped,02-07-2025
+10250,Amit Naidu,amit.naidu121@gmail.com,PUNE,CLOTHING,Formal Shirt,1417.95,3.0,5,NetBanking,Shipped,31/07/2024
+10666,Kavya Singh,kavya.singh213@yahoo.com,,clothing,Formal Shirt,931.43,3.0,0,net banking,Delivered,28/04/2025
+10694,Ananya Kumar,ananya.kumar209 at gmail.com,Hyderabad,Beauty,Lipstick,447.66,1.0,0,UPI,shipped,22-09-2024
+10031,Vijay Singh,vijay.singh15@yahoo.com,bengaluru,Clothes,Formal Shirt,968.07,1.0,0,DC,Returned,06 Nov 2024
+10765,Riya Pillai,riya.pillai141@yahoo.com,MUMBAI,Books,Children's Story Book,683.86,2.0,0,DC,Returned,05/06/2024
+10785,Reyansh Pillai,reyansh.pillai169@yahoo.com,chennai,Clothes,Track Pants,502.0,1.0,5%,cod,Shipped,06/03/2025
+10118,Ramesh Malhotra,ramesh.malhotra54@gmail.com,Lucknow,Grocery,Salt 1kg,68.08,1.0,0,credit card,CANCELLED,2025-07-31
+10351,Priya Joshi,priya.joshi245@yahoo.com,Lucknow,Clothing,Jacket,694.57,2.0,0,Debit Card,CANCELLED,2024-11-20
+10117,Priya Kapoor,priya.kapoor230@gmail.com,ahmedabad,Clothing,Hoodie,1126.92,2.0,10,COD,Cancelled,10-06-2025
+10455,Rahul Sharma,rahul.sharma135 at yahoo.com,bengaluru,Books,Biography,739.4,1.0,20,Cash on Delivery,CANCELLED,2024-02-13
+10542,Myra Patel,myra.patel127@gmail.com,jaipur,ELECTRONICS,Earbuds,3534.19,1.0,5,CC,pending,12/05/2024
+10579,Rohan Singh,rohan.singh125@gmail.com,New Delhi,Electronic,Wireless Mouse,512.96,2.0,20,NetBanking,shipped,03/17/2025
+10028,Reyansh Iyer,reyansh.iyer18@yahoo.com,BANGALORE,Home and Kitchen,Storage Container Set,1394.1,1.0,10,cod,Returned,2024-04-26
+10308,Kavya Rao,kavya.rao81@gmail.com,BANGALORE,grocery,Sugar 1kg,186.25,2.0,10,upi,Cancelled,2025-05-14
+10478,Priya Chatterjee,priya.chatterjee202@yahoo.com,chennai,books,History of India,₹334.24,3.0,5,credit card,delivered,01/23/2024
+10201,Ramesh Iyer,ramesh.iyer35@yahoo.com,jaipur,Electronics ,Bluetooth Speaker,3792.87,,5,Cash on Delivery,shipped,22/04/2025
+10715,Vivaan Mehta,vivaan.mehta52@gmail.com,Bengaluru,Book,Fiction Novel,962.44,3.0,10,upi,pending,26-05-2025
+10735,Kiran Malhotra,kiran.malhotra133@yahoo.com,delhi,books,Cook Book,₹202.74,1.0,0%,Debit Card,Returned,24 Nov 2024
+10650,DIVYA BOSE,divya.bose39@gmail.com,Hyd,Beauty ,Sunscreen SPF50,198.87,4.0,0,debit card,CANCELLED,25 Jun 2024
+10421,Ira Sharma,ira.sharma164@gmail.com,Jaipur,grocery,Salt 1kg,220.83,5.0,0,Credit Card,returned,27 Jul 2025
+10438,Divya Kapoor,divya.kapoor183@gmail.com,ahmedabad,Home and Kitchen,Bedsheet Set,3327.42,3.0,5%,Net Banking,pending,2025-02-26
+10324,Priya Rao,priya.rao36@yahoo.com,chennai,Clothing,Track Pants,2194.06,4.0,0,CC,Delivered,19-02-2024
+10281,KIRAN VERMA,kiran.verma91@yahoo.com,Bangalore,Home and Kitchen,Pressure Cooker,2385.64,1.0,0,cod,shipped,17 Mar 2024
+10779,Rahul Sharma,rahul.sharma135@yahoo.com,bengaluru,toys,Board Game,1136.84,4.0,20,upi,cancelled,19-09-2024
+10524,Ramesh Kapoor,ramesh.kapoor88@gmail.com,mumbai,Electronic,USB-C Charger,3879.0,4.0,0,upi,Delivered,2024-09-18
+10208,Kavya Malhotra,kavya.malhotra77@gmail.com,Jaipur,Clothing,Saree,2271.9,1.0,5,cod,Delivered,05-05-2024
+10697,Vihaan Naidu,vihaan.naidu180@yahoo.com,pune,sports,Cricket Bat,₹2307.57,4.0,0%,Net Banking,delivered,26/06/2024
+10024,Ishaan Patel,ishaan.patel78@gmail.com,Pune,clothing,Cotton T-Shirt,823.57,5.0,0,debit card,shipped,03 Sep 2024
+10712,MYRA IYER,myra.iyer198@gmail.com,chennai,Beauty ,Perfume,1181.43,,0,CC,returned,28/06/2025
+10621,Rahul Verma,rahul.verma51@gmail.com,Delhi,Home&Kitchen,LED Bulb,3304.16,1.0,0,DC,Cancelled,2024-01-19
+10155,Riya Chatterjee,riya.chatterjee154@gmail.com,New Delhi,ELECTRONICS,Laptop Stand,4456.97,2.0,10,credit card,shipped,2024-12-05
+10702,Diya Nair,,BANGALORE,CLOTHING,Denim Jeans,521.37,5.0,20,debit card,shipped,27 May 2025
+10594,Aditya Naidu,aditya.naidu148@gmail.com,Calcutta,Grocery,Salt 1kg,61.49,1.0,10%,CREDIT CARD,shipped,04/30/2024
+10641,Kiran Verma,kiran.verma98@gmail.com,Pune,electronics,USB-C Charger,4475.16,1.0,15,CC,Returned,07/06/2024
+10760,Sunita Chatterjee,sunita.chatterjee215@yahoo.com,Delhi,BEAUTY,Lipstick,209.41,2.0,15,cod,Returned,12/02/2025
+10770,Sai Sharma,sai.sharma221@gmail.com,Calcutta,Groceries,Sugar 1kg,189.54,5.0,0,Debit Card,Cancelled,
+10714,Arjun Iyer,arjun.iyer87@yahoo.com,BANGALORE,Home&Kitchen,Mixer Grinder,-1769.43,1.0,0,CC,shipped,27/08/2024
+10436,  Kiran Naidu  ,kiran.naidu100@yahoo.com,lucknow,CLOTHING,Kurti,1975.79,1.0,10,Upi,Pending,17 May 2025
+10263,Diya Nair,diya.nair165@yahoo.com,Bengaluru,Electronic,Laptop Stand,4646.68,5.0,15,UPI,returned,05/09/2024
+10083,Ramesh Malhotra,ramesh.malhotra26@yahoo.com,Kolkata,Toys,Soft Toy Bear,491.78,1.0,20%,net banking,Shipped,12 Dec 2024
+10409,Priya Chatterjee,,kolkata,grocery,Sunflower Oil 1L,679.67,1.0,0,upi,Delivered,2024-12-05
+10601,Arjun Iyer,arjun.iyer205@yahoo.com,HYDERABAD,Beauty ,Perfume,,1.0,0,upi,Returned,01/07/2025
+10039,  Ramesh Malhotra  ,ramesh.malhotra26@yahoo.com,Kolkata,books,Children's Story Book,758.75,1.0,15,net banking,returned,2024-10-19
+10527,Ramesh Iyer,ramesh.iyer35@yahoo.com,jaipur,Books,Data Science Handbook,329.17,3.0,10,Cash on Delivery,Shipped,23-10-2024
+10334,Priya Chatterjee,priya.chatterjee45@yahoo.com,Kolkata,Books,Children's Story Book,832.72,1.0,15,Upi,Pending,01/19/2025
+10011,Divya Chowdary,divya.chowdary158@gmail.com,Lucknow,Electronic,Smartwatch,2506.0,1.0,0,Credit Card,Cancelled,09-05-2024
+10690,Divya Reddy,divya.reddy80@gmail.com,Hyd,Toys,Action Figure,241.54,2.0,5,NetBanking,Shipped,03/28/2024
+10320,Saanvi Joshi,saanvi.joshi27@yahoo.com,delhi,Beauty ,Shampoo 400ml,1210.74,5.0,5,net banking,Returned,05/04/2025
+10033,Anika Patel,anika.patel89@gmail.com,Pune,books,Self Help Guide,795.57,1.0,0,NB,Canceled,16/11/2024
+10419,Arjun Nair,arjun.nair25@gmail.com,jaipur,Clothing,Kurti,1092.54,4.0,20,NB,Delivered,2024-07-04
+10720,Kavya Singh,,bengaluru,Books,Biography,-533.68,3.0,20,Cash On Delivery,shipped,01/24/2024
+10282,Ananya Kumar,ananya.kumar188@gmail.com,,beauty,Lipstick,1099.22,1.0,5%,CC,DELIVERED,07/15/2025
+10465,  Pooja Joshi  ,pooja.joshi96@gmail.com,Lucknow,home & kitchen,Water Bottle,1613.13,5.0,15,CC,Pending,08 Mar 2025
+10732,Reyansh Pillai,reyansh.pillai169@yahoo.com,Madras,Groceries,Wheat Atta 5kg,621.3,2.0,20,upi,pending,20/05/2024
+10479,ISHAAN PILLAI,ishaan.pillai67@gmail.com,Chennai,Toys,Puzzle Set,502.37,2.0,20,Credit Card,shipped,08/04/2025
+10739,Rahul Das,rahul.das193@yahoo.com,ahmedabad,Home & Kitchen,Mixer Grinder,873.36,1.0,15,Upi,DELIVERED,05 Nov 2024
+10353,Divya Bose,divya.bose39@gmail.com,HYDERABAD,Electronic,Bluetooth Speaker,3200.58,3.0,10,Cash on Delivery,CANCELLED,2024-03-21
+10544,Vijay Iyer,vijay.iyer234@gmail.com,lucknow,Sport,Running Shoes,877.8,1.0,5%,UPI,Shipped,07/27/2025
+10090,Ira Pillai,ira.pillai142@yahoo.com,Chennai,Sport,Badminton Racket,,2.0,15%,Debit Card,Canceled,23 Feb 2025
+10214,Amit Kapoor,amit.kapoor3@gmail.com,bengaluru,Toy,Puzzle Set,1767.6,4.0,15,Credit Card,CANCELLED,28 Dec 2024
+10322,Rahul Verma,rahul.verma166 at yahoo.com,HYDERABAD,Books,Biography,-419.12,3.0,0,net banking,shipped,
+10684,Sunita Iyer,sunita.iyer189@gmail.com,pune,toys,Puzzle Set,1538.94,2.0,20,UPI,delivered,07/08/2024
+10134,Riya Bose,riya.bose196@gmail.com,Pune,Beauty ,Moisturizer,1006.84,2.0,5,Upi,Canceled,20/01/2024
+10347,Kiran Malhotra,kiran.malhotra75@gmail.com,DELHI,Home and Kitchen,Water Bottle,₹1251.23,1.0,0%,DC,Shipped,05-05-2024
+10505,Vijay Kumar,vijay.kumar38@yahoo.com,Jaipur,clothing,Track Pants,1014.25,4.0,5,debit card,CANCELLED,15-05-2025
+10008,Ishaan Mehta,ishaan.mehta242@yahoo.com,Bengaluru,sports,Dumbbell Set,2677.7,5.0,15,Credit Card,Shipped,02/01/2025
+10483,Reyansh Sharma,reyansh.sharma167@gmail.com,lucknow,beauty,Perfume,441.29,1.0,0,net banking,Delivered,2024-05-29
+10743,Priya Joshi,priya.joshi245@yahoo.com,Lucknow,BEAUTY,Lipstick,₹1047.92,3.0,15,COD,Shipped,2024-12-02
+10636,Neha Das,neha.das106@gmail.com,New Delhi,books,History of India,402.76,3.0,20,CC,Pending,05-09-2024
+10188,  Rohan Kapoor  ,rohan.kapoor122@gmail.com,Bombay,sports,Running Shoes,1913.48,1.0,0,upi,shipped,13-04-2025
+10123,Vihaan Patel,vihaan.patel199@gmail.com,Pune,Groceries,Ghee 1L,422.13,2.0,20%,COD,delivered,2024-09-01
+10041,Aditya Singh,aditya.singh194@gmail.com,Delhi,Home and Kitchen,LED Bulb,2215.15,4.0,20,NetBanking,delivered,27/01/2025
+10305,Riya Verma,riya.verma70@gmail.com,Pune,Clothes,Denim Jeans,470.18,3.0,0%,DC,Delivered,2024-10-02
+10424,Myra Naidu,myra.naidu149@gmail.com,HYDERABAD,Groceries,Toor Dal 1kg,882.86,5.0,10,COD,Shipped,16 Apr 2025
+10722,Vijay Das,vijay.das207 at yahoo.com,bengaluru,Sport,Badminton Racket,3449.65,1.0,0,credit card,shipped,01 Aug 2024
+10173,Saanvi Joshi,saanvi.joshi47@yahoo.com,ahmedabad,sports,Yoga Mat,2772.01,1.0,0,UPI,Shipped,28 Feb 2024
+10285,Ira Chowdary,ira.chowdary24@gmail.com,ahmedabad,Clothing,Denim Jeans,1904.9,1.0,0,net banking,Shipped,2025-02-19
+10719,Sunita Kumar,sunita.kumar102@gmail.com,Kolkata,Sports,Skipping Rope,477.25,3.0,10,COD,CANCELLED,03 Jul 2024
+10241,Vihaan Joshi,vihaan.joshi10@yahoo.com,pune,Beauty ,Face Mask Pack,1365.31,2.0,0,DC,Shipped,07 Mar 2024
+10592,VIHAAN REDDY,vihaan.reddy95@gmail.com,MUMBAI,BEAUTY,Sunscreen SPF50,1091.54,2.0,0,Cash On Delivery,Shipped,11 Jan 2025
+10597,Vijay Iyer,vijay.iyer234@gmail.com,,Grocery,Sunflower Oil 1L,634.52,5.0,0,CC,Delivered,
+10659,Aditya Naidu,aditya.naidu148@gmail.com,Kolkata,clothing,Formal Shirt,1011.08,2.0,0,cod,delivered,01/11/2024
+10572,Reyansh Malhotra,reyansh.malhotra23@gmail.com,pune,Book,Fiction Novel,450.42,1.0,5,COD,pending,04/19/2024
+10246,  Aadhya Chowdary  ,aadhya.chowdary150@yahoo.com,Lucknow,Groceries,Sunflower Oil 1L,448.1,3.0,0,Cash on Delivery,cancelled,2024-07-25
+10057,Kavya Singh,kavya.singh213@yahoo.com,BANGALORE,Clothing,Saree,1779.55,1.0,15,NB,shipped,2025-07-10
+10404,KRISHNA IYER,krishna.iyer224@yahoo.com,Lucknow,Sport,Cycling Gloves,1308.92,3.0,15,CREDIT CARD,Cancelled,17-03-2025
+10072,Divya Chowdary,divya.chowdary12@gmail.com,Bengaluru,Electronic,Laptop Stand,610.52,3.0,5%,debit card,returned,20 Mar 2024
+10610,Riya Pillai,riya.pillai141@yahoo.com,Mumbai,Electronics ,USB-C Charger,1268.61,1.0,0,CREDIT CARD,Returned,2025-03-20
+10146,Vijay Kumar,vijay.kumar38@yahoo.com,Jaipur,Toys,Building Blocks,1862.58,2.0,0,DC,Returned,2024-12-17
+10091,Saanvi Gupta,saanvi.gupta79@gmail.com,Madras,Beauty,Perfume,1352.68,3.0,5,CC,shipped,2024-11-01
+10167,Neha Nair,neha.nair104@gmail.com,chennai,Books,Biography,612.35,1.0,5,Upi,Delivered,17/01/2024
+10499,  Myra Patel  ,myra.patel127@gmail.com,,Toy,Doll House,778.99,3.0,0,Upi,delivered,2025-04-19
+10171,Ramesh Kapoor,ramesh.kapoor88@gmail.com,mumbai,clothing,Formal Shirt,1609.2,1.0,20,DC,Returned,2024-09-27
+10311,Krishna Singh,krishna.singh195@gmail.com,lucknow,Book,Cook Book,363.26,1.0,0,DC,Cancelled,04/04/2024
+10670,Saanvi Mehta,saanvi.mehta187@gmail.com,Hyderbad,home & kitchen,Curtains,2879.15,1.0,0,NB,pending,22/01/2025
+10360,Sai Kapoor,sai.kapoor19@gmail.com,Delhi,Sport,Yoga Mat,1874.17,3.0,0,credit card,Pending,19-07-2024
+10094,Amit Malhotra,amit.malhotra233 at yahoo.com,lucknow,Toys,Puzzle Set,768.49,120.0,20,NetBanking,cancelled,2025-05-16
+10488,Kiran Kapoor,kiran.kapoor146@gmail.com,bengaluru,Sports,Skipping Rope,553.23,1.0,10,NB,CANCELLED,2025-04-29
+10710,Divya Kapoor,divya.kapoor183@gmail.com,Ahmedabad,Books,Cook Book,492.64,2.0,0,Credit Card,delivered,05/25/2025
+10609,Reyansh Malhotra,reyansh.malhotra23@gmail.com,Pune,Groceries,Salt 1kg,-313.93,4.0,0,debit card,Shipped,20-03-2024
+10377,Arjun Das,arjun.das44@gmail.com,jaipur,Electronics ,Power Bank,1115.24,2.0,15,cod,Canceled,08/11/2024
+10244,Riya Sharma,riya.sharma32 at yahoo.com,Bengaluru,CLOTHING,Cotton T-Shirt,2315.77,4.0,0,CC,Pending,2024-04-14
+10088,Aarav Reddy,aarav.reddy159@gmail.com,,books,Data Science Handbook,485.42,3.0,15,upi,Delivered,17-05-2024
+10215,Suresh Das,suresh.das248@gmail.com,BANGALORE,Electronics,USB-C Charger,1596.34,5.0,0,UPI,pending,01/04/2025
+10345,Rohan Chatterjee,rohan.chatterjee176@yahoo.com,Bengaluru,Electronics ,LED Monitor,638.85,4.0,15,upi,Pending,
+10174,Rohan Nair,rohan.nair145@gmail.com,chennai,Groceries,Toor Dal 1kg,640.31,2.0,0,upi,delivered,03/04/2024
+10643,Priya Chatterjee,priya.chatterjee37@gmail.com,delhi,Toys,Board Game,1550.63,3.0,0%,Debit Card,shipped,14/05/2025
+10292,Arjun Nair,arjun.nair25@gmail.com,jaipur,Electronic,USB-C Charger,1922.57,3.0,15,Credit Card,Shipped,12 Feb 2024
+10628,Kiran Malhotra,kiran.malhotra75@gmail.com,New Delhi,BEAUTY,Shampoo 400ml,583.55,1.0,15%,Net Banking,shipped,04-08-2024
+10119,Priya Chatterjee,,New Delhi,Grocery,Sugar 1kg,191.56,3.0,5,Cash On Delivery,Shipped,06/30/2024
+10120,Riya Verma,riya.verma241 at gmail.com,ahmedabad,Book,Biography,463.82,1.0,15,Cash on Delivery,returned,2024-08-26
+10164,Aditya Kumar,aditya.kumar73@gmail.com,Bengaluru,Sport,Football,2153.81,4.0,20,NB,cancelled,15/07/2025
+10749,Riya Pillai,riya.pillai244@gmail.com,Kolkata,Beauty ,Shampoo 400ml,945.77,4.0,0,CREDIT CARD,shipped,30/06/2024
+10385,Anika Iyer,anika.iyer232@gmail.com,Hyderabad,Toy,Building Blocks,336.77,3.0,0,CC,returned,2025-02-14
+10598,Divya Chowdary,divya.chowdary12@gmail.com,BANGALORE,sports,Dumbbell Set,3800.27,5.0,0,cod,delivered,2024-09-19
+10395,Rahul Chatterjee,rahul.chatterjee249@yahoo.com,New Delhi,sports,Football,2450.76,3.0,10,debit card,DELIVERED,07-03-2024
+10402,Sunita Pillai,sunita.pillai138@yahoo.com,jaipur,Sports,Cycling Gloves,3712.52,1.0,5,cod,Shipped,24/03/2025
+10405,,saanvi.bose243@yahoo.com,HYDERABAD,books,Data Science Handbook,490.25,2.0,0,DC,returned,24 Jul 2024
+10481,Ira Reddy,ira.reddy43@yahoo.com,jaipur,Electronic,LED Monitor,1116.18,1.0,0,DC,cancelled,2024-02-13
+10509,Sai Iyer,sai.iyer60@gmail.com,ahmedabad,Books,Data Science Handbook,323.22,4.0,10,Debit Card,delivered,12 Jan 2024
+10163,Krishna Singh,krishna.singh195@gmail.com,lucknow,CLOTHING,Jacket,1548.14,1.0,20,net banking,Canceled,01/07/2025
+10321,KAVYA SINGH,kavya.singh208@gmail.com,ahmedabad,sports,Running Shoes,3214.86,3.0,0,CC,shipped,26 Aug 2024
+10115,Ramesh Kapoor,ramesh.kapoor197@gmail.com,PUNE,home & kitchen,Non-stick Pan,2019.26,5.0,15,debit card,delivered,31/13/2024
+10159,Riya Singh,riya.singh86@yahoo.com,Bengaluru,Toy,Doll House,1869.02,1.0,20,upi,Canceled,01-02-2024
+10151,Rahul Chatterjee,rahul.chatterjee249@yahoo.com,New Delhi,Electronic,Smartwatch,4769.91,2.0,15,Cash On Delivery,Pending,03/13/2025
+10510,Riya Chatterjee,riya.chatterjee154 at gmail.com,DELHI,Home and Kitchen,Non-stick Pan,1769.84,2.0,10,NetBanking,Shipped,2024-10-11
+10423,Riya Sharma,riya.sharma63@yahoo.com,BANGALORE,Electronic,LED Monitor,4253.48,4.0,10,Upi,returned,17-03-2025
+10604,Riya Bose,riya.bose196@gmail.com,PUNE,Toy,Soft Toy Bear,1719.14,5.0,10,credit card,Delivered,01/10/2024
+10369,Anika Malhotra,anika.malhotra228@gmail.com,chennai,Sports,Football,779.69,2.0,20,Upi,cancelled,31/13/2024
+10032,Amit Verma,amit.verma212@gmail.com,Mumbai,Electronics ,Bluetooth Speaker,608.12,2.0,15,Upi,Pending,19-02-2025
+10378,Kiran Reddy,kiran.reddy83@gmail.com,Delhi,Clothes,Track Pants,2211.52,1.0,0,UPI,Cancelled,25 Mar 2025
+10515,Sai Sharma,sai.sharma221@gmail.com,kolkata,Electronics ,Bluetooth Speaker,1882.48,1.0,0,UPI,Shipped,02-06-2024
+10021,Saanvi Iyer,saanvi.iyer20@gmail.com,jaipur,beauty,Sunscreen SPF50,809.77,1.0,15,COD,delivered,08/01/2025
+10114,Divya Kapoor,divya.kapoor183@gmail.com,ahmedabad,books,Cook Book,863.09,1.0,15,Cash on Delivery,Shipped,14/10/2024
+10703,Kavya Naidu,kavya.naidu217@gmail.com,Madras,Clothing,Denim Jeans,,1.0,0,Debit Card,DELIVERED,2025-02-15
+10001,Ira Chowdary,ira.chowdary24@gmail.com,ahmedabad,Home&Kitchen,Pressure Cooker,1721.78,1.0,15,net banking,CANCELLED,14 Jul 2024
+10442,,riya.gupta247@gmail.com,Madras,Sports,Skipping Rope,2916.78,1.0,0,upi,Returned,16-05-2025
+10691,Ananya Patel,,Ahmedabad,Grocery,Wheat Atta 5kg,₹716.61,2.0,0,DC,pending,10/07/2024
+10774,Pooja Iyer,pooja.iyer92@gmail.com,Hyd,Book,Cook Book,952.98,1.0,0,DC,shipped,08-07-2025
+10793,Myra Kapoor,myra.kapoor94@gmail.com,Calcutta,Toys,Puzzle Set,1281.56,1.0,15,credit card,delivered,26-07-2025
+10543,Divya Nair,divya.nair101@yahoo.com,mumbai,Toy,Doll House,551.99,3.0,20,cod,cancelled,13 Jul 2025
+10259,Amit Naidu,amit.naidu121@gmail.com,pune,Beauty,Shampoo 400ml,337.82,1.0,10,UPI,cancelled,05 Feb 2024
+10787,Saanvi Pillai,saanvi.pillai216@gmail.com,ahmedabad,Toy,Soft Toy Bear,,1.0,0%,net banking,Shipped,01-06-2025
+10315,Rahul Verma,rahul.verma166@yahoo.com,Hyderbad,Books,Data Science Handbook,947.67,2.0,10,,Canceled,15 Jun 2025
+10689,Amit Verma,amit.verma212 at gmail.com,Mumbai,sports,Badminton Racket,668.8,1.0,0%,Cash On Delivery,returned,09/18/2024
+10136,Ramesh Malhotra,ramesh.malhotra54@gmail.com,Lucknow,Toy,Doll House,₹1425.6,2.0,0,UPI,DELIVERED,2024-08-11
+10546,Priya Chatterjee,priya.chatterjee45@yahoo.com,kolkata,sports,Dumbbell Set,₹3314.77,5.0,15,Credit Card,Returned,21-04-2024
+10005,Anika Verma,anika.verma231@yahoo.com,Calcutta,Toy,Action Figure,1418.7,1.0,0,upi,CANCELLED,2025-05-09
+10485,Riya Bose,riya.bose196@gmail.com,PUNE,electronics,Bluetooth Speaker,4992.76,1.0,20,Debit Card,pending,07/02/2025
+10325,Rahul Das,rahul.das193@yahoo.com,ahmedabad,books,Business Strategy,717.0,2.0,10,Upi,Shipped,2024-07-29
+10331,Sai Nair,sai.nair220@gmail.com,mumbai,Home and Kitchen,LED Bulb,1377.74,1.0,0%,Net Banking,shipped,23/06/2025
+10450,Riya Chatterjee,riya.chatterjee154@gmail.com,DELHI,grocery,Sugar 1kg,338.93,3.0,20,upi,Returned,11/16/2024
+10340,Suresh Rao,suresh.rao171@yahoo.com,mumbai,clothing,Jacket,2354.31,5.0,0,NB,DELIVERED,2024-09-13
+10298,Pooja Patel,,Madras,electronics,Bluetooth Speaker,2893.9,3.0,20,upi,Cancelled,10-07-2025
+10081,Arjun Iyer,arjun.iyer87@yahoo.com,bengaluru,BEAUTY,Hair Oil,290.03,1.0,15%,DC,CANCELLED,10-11-2024
+10713,SAANVI PILLAI,saanvi.pillai216@gmail.com,ahmedabad,Beauty ,Hair Oil,₹1086.95,1.0,5%,debit card,shipped,02/16/2024
+10027,Saanvi Joshi,saanvi.joshi47@yahoo.com,Ahmedabad,BEAUTY,Hair Oil,242.64,3.0,15,Net Banking,returned,2024-10-08
+10532,Krishna Nair,krishna.nair2@yahoo.com,MUMBAI,Books,Biography,920.24,4.0,0%,credit card,Returned,2024-02-19
+10217,Sai Chatterjee,sai.chatterjee170@yahoo.com,Lucknow,Home & Kitchen,Non-stick Pan,,1.0,5,Upi,delivered,17 Jan 2025
+10606,Krishna Chowdary,krishna.chowdary147@yahoo.com,mumbai,Book,Data Science Handbook,-211.63,4.0,15,Upi,cancelled,22-10-2024
+10344,Riya Bose,riya.bose196@gmail.com,pune,ELECTRONICS,Earbuds,4911.86,4.0,10,Credit Card,Shipped,12/24/2024
+10599,Pooja Iyer,pooja.iyer143@gmail.com,Jaipur,Home and Kitchen,Mixer Grinder,1336.23,2.0,0%,net banking,Shipped,2024-08-06
+10511,Priya Chatterjee,priya.chatterjee45@yahoo.com,Kolkata,Grocery,Wheat Atta 5kg,-675.85,1.0,0,COD,Canceled,11/02/2024
+10365,Ira Kapoor,ira.kapoor192@yahoo.com,Delhi,CLOTHING,Saree,1740.61,1.0,20,Credit Card,Shipped,07 Apr 2024
+10504,Sunita Naidu,sunita.naidu30@gmail.com,Lucknow,Books,History of India,,1.0,10,Debit Card,DELIVERED,08/02/2025
+10148,,amit.chatterjee129@gmail.com,PUNE,Toy,Building Blocks,,2.0,0,UPI,shipped,04-03-2024
+10015,Rohan Singh,rohan.singh125@gmail.com,DELHI,toys,Doll House,690.7,120.0,0,credit card,Shipped,08/01/2024
+10175,Arjun Bose,arjun.bose28@gmail.com,ahmedabad,Grocery,Salt 1kg,,1.0,5,net banking,Delivered,03-02-2025
+10087,POOJA IYER,pooja.iyer143@gmail.com,jaipur,Books,Children's Story Book,877.13,5.0,20,DC,Delivered,2025-07-30
+10371,Diya Singh,diya.singh152@yahoo.com,Calcutta,beauty,Face Mask Pack,392.03,1.0,20,Net Banking,Delivered,06/07/2025
+10166,Rahul Nair,rahul.nair175@yahoo.com,Bengaluru,Sport,Skipping Rope,2387.54,2.0,5,net banking,delivered,31/13/2024
+10716,SAI SHARMA,sai.sharma221@gmail.com,Kolkata,Books,Self Help Guide,536.13,2.0,0,CREDIT CARD,pending,05/03/2024
+10336,Rohan Nair,,Madras,Toys,Board Game,1754.77,1.0,15,Cash On Delivery,Canceled,2024-11-14
+10060,Kiran Naidu,kiran.naidu100@yahoo.com,lucknow,Electronics,Laptop Stand,1345.61,1.0,10,Upi,shipped,01 Feb 2025
+10772,Vihaan Patel,vihaan.patel199@gmail.com,pune,Book,Self Help Guide,925.57,5.0,5,CREDIT CARD,returned,31/13/2024
+10539,IRA SINGH,ira.singh240@yahoo.com,Kolkata,clothing,Hoodie,1189.86,1.0,15,Upi,Pending,24 Jul 2025
+10165,Sai Chatterjee,sai.chatterjee170@yahoo.com,lucknow,Clothing,Jacket,,5.0,0,Cash On Delivery,Delivered,10/08/2024
+10355,Riya Sharma,riya.sharma63@yahoo.com,Bangalore,Book,Self Help Guide,663.71,2.0,0,Debit Card,Delivered,05/03/2024
+10611,AMIT NAIDU,amit.naidu121@gmail.com,Pune,Groceries,Toor Dal 1kg,373.46,1.0,15,COD,Pending,04 Jun 2025
+10425,Rahul Joshi,rahul.joshi17@gmail.com,MUMBAI,Sports,Cricket Bat,3829.25,2.0,10%,net banking,returned,04/12/2024
+10293,Krishna Singh,krishna.singh195@gmail.com,lucknow,Home&Kitchen,LED Bulb,343.58,2.0,5,CREDIT CARD,Pending,19 Jun 2024
+10042,Kiran Singh,kiran.singh41@gmail.com,New Delhi,Book,Cook Book,735.75,2.0,0,upi,Pending,10 Sep 2024
+10362,Sunita Nair,sunita.nair108@gmail.com,delhi,Toy,Board Game,644.31,4.0,0,debit card,pending,2024-08-28
+10330,Rahul Sharma,rahul.sharma135 at yahoo.com,bengaluru,grocery,Sunflower Oil 1L,707.97,1.0,0,NetBanking,delivered,04-11-2024
+10554,Kiran Malhotra,kiran.malhotra42@gmail.com,BANGALORE,Book,Cook Book,359.07,1.0,10,credit card,shipped,03/01/2024
+10430,Rahul Verma,rahul.verma51@gmail.com,DELHI,BEAUTY,Perfume,664.93,4.0,0,NetBanking,DELIVERED,12/02/2024
+10080,,kavya.singh208@gmail.com,,Toy,Action Figure,515.0,1.0,0,Debit Card,Canceled,2024-03-01
+10766,,sai.naidu8@gmail.com,Pune,Toys,Building Blocks,732.4,1.0,20%,Upi,delivered,2024-07-22
+10029,Kavya Chatterjee,,PUNE,home & kitchen,Pressure Cooker,646.9,1.0,5,Upi,shipped,03/11/2024
+10426,Pooja Iyer,pooja.iyer92@gmail.com,hyderabad,Clothing,Denim Jeans,1649.47,4.0,15,Net Banking,delivered,01/31/2025
+10516,Anika Mehta,anika.mehta139@yahoo.com,Ahmedabad,toys,Action Figure,1083.05,1.0,0,CREDIT CARD,DELIVERED,2024-02-20
+10573,Divya Gupta,divya.gupta157@gmail.com,Lucknow,Books,Biography,613.78,120.0,10,DC,Pending,12-06-2024
+10564,ROHAN KAPOOR,rohan.kapoor250@gmail.com,Hyderbad,sports,Yoga Mat,1986.96,2.0,10,Credit Card,returned,27-06-2025
+10323,Krishna Kumar,krishna.kumar136@gmail.com,jaipur,ELECTRONICS,Earbuds,3364.97,1.0,5,Net Banking,returned,02/18/2024
+10238,  Reyansh Iyer  ,reyansh.iyer116@yahoo.com,Hyderbad,ELECTRONICS,Wireless Mouse,4137.16,2.0,15,NetBanking,Canceled,16/02/2024
+10379,  Rahul Chatterjee  ,rahul.chatterjee249@yahoo.com,delhi,Home and Kitchen,Pressure Cooker,1588.25,2.0,10,COD,Returned,02-04-2024
+10255,Divya Kapoor,divya.kapoor46@yahoo.com,delhi,Electronics,LED Monitor,522.46,2.0,0,Net Banking,Delivered,11/30/2024
+10608,  Sunita Nair  ,sunita.nair108@gmail.com,Delhi,Electronic,Earbuds,1522.71,4.0,10,net banking,Shipped,15-10-2024
+10459,Vihaan Naidu,vihaan.naidu56@gmail.com,Pune,home & kitchen,Mixer Grinder,2647.09,3.0,0%,debit card,Cancelled,02/01/2024
+10800,KRISHNA CHOWDARY,,Mumbai,Electronic,Smartwatch,2555.58,2.0,0,Upi,Canceled,2024-04-05
+10384,Ira Patel,ira.patel65@yahoo.com,kolkata,Book,Children's Story Book,722.75,1.0,10,Credit Card,DELIVERED,09/02/2025
+10314,Kiran Verma,kiran.verma98@gmail.com,PUNE,Beauty,Perfume,986.75,1.0,0,Net Banking,Shipped,10/23/2024
+10085,  Ramesh Bose  ,ramesh.bose140@yahoo.com,kolkata,books,Self Help Guide,464.37,4.0,0,Cash on Delivery,Delivered,18 Dec 2024
+10063,Saanvi Joshi,saanvi.joshi27@yahoo.com,Delhi,Home and Kitchen,Water Bottle,3085.87,1.0,5,DC,returned,18 Jun 2024
+10796,Amit Nair,amit.nair74@gmail.com,,Home&Kitchen,Bedsheet Set,2742.15,1.0,20,Debit Card,CANCELLED,01/21/2025
+10137,Kavya Verma,kavya.verma177@gmail.com,PUNE,grocery,Tea Powder 500g,704.18,2.0,0,DC,Delivered,14/05/2025
+10112,REYANSH REDDY,reyansh.reddy174@yahoo.com,Lucknow,Sport,Yoga Mat,2324.72,1.0,0,UPI,Shipped,13/06/2024
+10195,Kavya Verma,kavya.verma177@gmail.com,pune,Sports,Cricket Bat,2253.08,3.0,20,credit card,cancelled,26 Jul 2025
+10341,Ira Sharma,ira.sharma164@gmail.com,Jaipur,Home & Kitchen,Bedsheet Set,1032.23,5.0,15,credit card,Cancelled,01/03/2025
+10179,Sunita Iyer,sunita.iyer189@gmail.com,PUNE,Books,Children's Story Book,251.68,1.0,0,CC,Pending,13 Jan 2025
+10044,Neha Rao,neha.rao16@gmail.com,Calcutta,Clothes,Jacket,368.82,4.0,0,NB,pending,23 Mar 2024
+10596,RIYA IYER,riya.iyer33@gmail.com,PUNE,sports,Cycling Gloves,3363.39,1.0,15%,UPI,cancelled,10/12/2024
+10348,Aarav Malhotra,aarav.malhotra151@gmail.com,kolkata,Books,Cook Book,₹852.1,1.0,0,Debit Card,Pending,2024-11-08
+10458,Vihaan Naidu,vihaan.naidu56@gmail.com,Pune,grocery,Tea Powder 500g,224.4,4.0,15,cod,Cancelled,2024-04-19
+10497,Amit Nair,amit.nair74@gmail.com,Kolkata,BEAUTY,Sunscreen SPF50,205.72,1.0,20,Debit Card,Returned,27 May 2025
+10685,Divya Bose,divya.bose39@gmail.com,Hyd,Books,Business Strategy,₹739.29,1.0,0,NB,DELIVERED,04/01/2025
+10512,Riya Bose,riya.bose196@gmail.com,PUNE,Groceries,Wheat Atta 5kg,111.23,4.0,0,cod,cancelled,04/04/2025
+10294,Ira Chatterjee,ira.chatterjee132@gmail.com,,clothing,Formal Shirt,1262.04,4.0,10,Cash on Delivery,shipped,30 May 2025
+10130,Riya Kumar,riya.kumar200@gmail.com,delhi,beauty,Hair Oil,554.13,5.0,20,DC,returned,2025-02-18
+10338,ANANYA SHARMA,ananya.sharma179@yahoo.com,Kolkata,Clothing,Jacket,1216.17,4.0,0,Cash On Delivery,Returned,04/24/2025
+10125,Riya Gupta,riya.gupta247@gmail.com,Chennai,Toys,Toy Kitchen Set,1812.74,1.0,5,upi,Shipped,26/09/2024
+10775,Anika Das,anika.das222@gmail.com,Madras,BEAUTY,Lipstick,-299.09,4.0,20,Net Banking,Cancelled,16-04-2024
+10227,Ira Sharma,ira.sharma40@yahoo.com,Bengaluru,sports,Badminton Racket,3320.85,1.0,20,upi,delivered,01/16/2025
+10269,Saanvi Bose,,hyderabad,CLOTHING,Jacket,1546.6,2.0,0%,Net Banking,Cancelled,2024-10-27
+10789,Rohan Chowdary,,jaipur,Groceries,Sunflower Oil 1L,378.48,2.0,0,Net Banking,Returned,03/06/2025
+10104,Ramesh Iyer,ramesh.iyer35@yahoo.com,Jaipur,Toys,Building Blocks,1153.66,1.0,10,Debit Card,shipped,05/31/2025
+10695,Kiran Reddy,kiran.reddy83@gmail.com,delhi,home & kitchen,Water Bottle,1561.48,1.0,5,NB,Delivered,29 Feb 2024
+10228,Reyansh Patel,reyansh.patel219@yahoo.com,chennai,Sports,Yoga Mat,1908.67,1.0,15,Net Banking,DELIVERED,03 Jun 2024
+10718,Ramesh Mehta,ramesh.mehta103@yahoo.com,Kolkata,Home&Kitchen,Curtains,3126.41,1.0,0,net banking,returned,2024-08-17
+10302,VIVAAN CHATTERJEE,vivaan.chatterjee218@yahoo.com,Bangalore,electronics,Earbuds,,1.0,0,Cash On Delivery,Cancelled,2024-05-21
+10276,Aadhya Das,aadhya.das237@gmail.com,BANGALORE,Groceries,Ghee 1L,667.29,2.0,20,NetBanking,Pending,24-06-2025
+10127,Saanvi Joshi,saanvi.joshi47@yahoo.com,Ahmedabad,Beauty ,Perfume,409.93,1.0,0,debit card,shipped,31/13/2024
+10406,Sunita Verma,sunita.verma11@gmail.com,ahmedabad,grocery,Tea Powder 500g,860.46,3.0,20,Debit Card,Delivered,2025-03-26
+10723,Anika Patel,anika.patel89@gmail.com,pune,Home&Kitchen,Pressure Cooker,615.87,2.0,20,Upi,Cancelled,30/04/2024
+10037,Krishna Iyer,krishna.iyer224@yahoo.com,lucknow,ELECTRONICS,USB-C Charger,2784.94,3.0,15,cod,returned,15/07/2024
+10140,Pooja Malhotra,pooja.malhotra184@gmail.com,Madras,CLOTHING,Cotton T-Shirt,2345.46,2.0,15,Upi,shipped,2025-06-25
+10304,Reyansh Chowdary,reyansh.chowdary109@gmail.com,Pune,Toys,Action Figure,1853.47,2.0,15%,debit card,CANCELLED,07 Jul 2024
+10268,Aditya Verma,aditya.verma227@yahoo.com,mumbai,Books,Cook Book,772.84,1.0,0,,CANCELLED,2024-01-02
+10213,Pooja Malhotra,pooja.malhotra184@gmail.com,chennai,books,Business Strategy,852.17,5.0,0,net banking,cancelled,16/10/2024
+10469,Aadhya Mehta,aadhya.mehta238@yahoo.com,PUNE,grocery,Toor Dal 1kg,69.49,1.0,10%,Net Banking,CANCELLED,28 Apr 2024
+10199,Vijay Gupta,vijay.gupta93@gmail.com,Madras,Beauty ,Face Wash,₹214.15,5.0,0,DC,Pending,03/12/2024
+10528,Sunita Nair,sunita.nair108@gmail.com,delhi,Book,Cook Book,854.74,5.0,0,COD,Shipped,2024-10-28
+10645,Sunita Pillai,sunita.pillai138@yahoo.com,Jaipur,Toy,Puzzle Set,1618.52,5.0,15,CC,shipped,17 Sep 2024
+10242,Amit Joshi,amit.joshi178@gmail.com,bengaluru,Beauty ,Face Mask Pack,101.74,,15,UPI,pending,05 Jan 2025
+10343,Riya Nair,riya.nair137@gmail.com,bengaluru,Home & Kitchen,Water Bottle,1516.42,1.0,10,upi,Returned,22/05/2024
+10387,Myra Verma,myra.verma57@gmail.com,BANGALORE,Clothing,Hoodie,1900.96,5.0,10,upi,Pending,04/18/2025
+10699,AMIT VERMA,amit.verma212@gmail.com,mumbai,ELECTRONICS,Bluetooth Speaker,3260.38,3.0,0,net banking,returned,03/26/2024
+10207,Rohan Patel,rohan.patel69@gmail.com,HYDERABAD,Beauty ,Shampoo 400ml,458.03,2.0,5%,Net Banking,Returned,30-01-2024
+10296,Reyansh Pillai,reyansh.pillai169@yahoo.com,chennai,Clothes,Saree,2379.44,2.0,20,DC,Pending,01/04/2025
+10624,Amit Mehta,amit.mehta119@gmail.com,Lucknow,Home & Kitchen,Pressure Cooker,1602.89,2.0,0,net banking,Cancelled,07/21/2024
+10074,Saanvi Joshi,saanvi.joshi27@yahoo.com,DELHI,home & kitchen,Bedsheet Set,1584.39,1.0,0,Net Banking,Shipped,2025-02-07
+10105,Aditya Verma,aditya.verma227@yahoo.com,mumbai,beauty,Hair Oil,1095.62,2.0,0,cod,returned,03 Mar 2025
+10578,Krishna Reddy,krishna.reddy185@yahoo.com,Chennai,Grocery,Basmati Rice 5kg,767.1,5.0,0,Net Banking,Delivered,04 Jul 2025
+10778,KRISHNA CHOWDARY,krishna.chowdary147 at yahoo.com,Bombay,Groceries,Salt 1kg,120.12,4.0,0,Cash On Delivery,returned,06/19/2025
+10017,Myra Verma,myra.verma57@gmail.com,Bangalore,Sports,Football,535.42,1.0,10,UPI,Cancelled,06/30/2024
+10440,Saanvi Pillai,saanvi.pillai216@gmail.com,Ahmedabad,Clothing,Track Pants,1670.11,3.0,10,COD,cancelled,2025-03-01
+10092,NEHA KAPOOR,neha.kapoor62@gmail.com,BANGALORE,Electronics,Power Bank,3437.44,1.0,15,COD,CANCELLED,02 Jan 2025
+10089,Krishna Singh,krishna.singh195@gmail.com,Lucknow,Sports,Yoga Mat,2181.26,1.0,0,credit card,delivered,22-07-2024
+10451,Diya Singh,diya.singh152@yahoo.com,Kolkata,Home & Kitchen,Bedsheet Set,1811.34,5.0,0,Cash On Delivery,Returned,04/05/2025
+10103,Kiran Verma,kiran.verma91@yahoo.com,BANGALORE,beauty,Hair Oil,1081.93,1.0,0,Debit Card,Pending,13/04/2025
+10239,Rahul Pillai,rahul.pillai246@gmail.com,Hyderbad,sports,Badminton Racket,2630.89,5.0,0,credit card,DELIVERED,2025-05-02
+10586,,reyansh.kapoor59@gmail.com,Ahmedabad,Sport,Football,1249.37,2.0,0,NB,Returned,11-03-2025
+10247,  Kiran Malhotra  ,kiran.malhotra42@gmail.com,Bangalore,clothing,Jacket,2226.43,1.0,5,debit card,returned,07/29/2024
+10581,Sai Nair,sai.nair220@gmail.com,MUMBAI,grocery,Toor Dal 1kg,197.67,2.0,0,upi,Returned,2025-02-03
+10158,Ira Sharma,ira.sharma164@gmail.com,jaipur,Home & Kitchen,Non-stick Pan,2313.04,2.0,0,upi,Shipped,28/06/2024
+10480,Arjun Das,arjun.das168@gmail.com,Bengaluru,Grocery,Sugar 1kg,514.75,4.0,0,UPI,pending,02/07/2024
+10687,Pooja Patel,pooja.patel203@gmail.com,Chennai,Clothes,Jacket,543.11,1.0,10,debit card,cancelled,04-11-2024
+10669,Priya Chatterjee,priya.chatterjee202@yahoo.com,Chennai,Clothing,Kurti,826.22,1.0,5,UPI,Pending,10-01-2024
+10019,Amit Chatterjee,amit.chatterjee129@gmail.com,PUNE,grocery,Basmati Rice 5kg,431.94,3.0,15,COD,returned,22-02-2025
+10711,Reyansh Reddy,reyansh.reddy191@yahoo.com,New Delhi,CLOTHING,Formal Shirt,1500.22,1.0,5,Cash on Delivery,Returned,2025-01-20
+10122,Ira Kapoor,ira.kapoor192@yahoo.com,Delhi,Home & Kitchen,Curtains,2783.26,1.0,0,credit card,shipped,2024-03-31
+10575,Krishna Iyer,krishna.iyer224@yahoo.com,Lucknow,home & kitchen,Mixer Grinder,555.27,2.0,5,Upi,pending,23/01/2024
+10275,Ananya Kumar,ananya.kumar209@gmail.com,Hyderabad,BEAUTY,Lipstick,798.77,5.0,0,Cash on Delivery,shipped,08/08/2024
+10434,Vihaan Joshi,vihaan.joshi10@yahoo.com,pune,Books,Self Help Guide,220.07,1.0,0,COD,Returned,15/01/2024
+10727,Aditya Naidu,aditya.naidu148@gmail.com,kolkata,Home & Kitchen,Bedsheet Set,3105.07,1.0,10,debit card,shipped,19-03-2025
+10312,Amit Joshi,amit.joshi178@gmail.com,,books,Data Science Handbook,625.77,2.0,0%,debit card,DELIVERED,
+10112,REYANSH REDDY,reyansh.reddy174@yahoo.com,Lucknow,Sport,Yoga Mat,2324.72,1.0,0,UPI,Shipped,13/06/2024
+10678,Saanvi Joshi,saanvi.joshi47@yahoo.com,Ahmedabad,Toy,Building Blocks,1738.47,4.0,20,CREDIT CARD,Returned,2025-02-26
+10547,Neha Rao,neha.rao16@gmail.com,kolkata,Grocery,Ghee 1L,54.72,3.0,0,Upi,pending,29-02-2024
+10182,Priya Kapoor,priya.kapoor230@gmail.com,Ahmedabad,Home & Kitchen,Curtains,2154.93,3.0,5,DC,CANCELLED,2024-08-13
+10185,Vihaan Malhotra,vihaan.malhotra172@yahoo.com,hyderabad,BEAUTY,Shampoo 400ml,1083.63,1.0,5%,Net Banking,delivered,06 Dec 2024
+10407,Ananya Kumar,ananya.kumar209@gmail.com,Hyd,Clothes,Denim Jeans,,1.0,0,net banking,DELIVERED,01/03/2025
+10521,Ishaan Das,ishaan.das53@gmail.com,Delhi,Home and Kitchen,Bedsheet Set,3399.12,3.0,0,Debit Card,shipped,06/22/2025
+10381,Divya Nair,divya.nair101@yahoo.com,Bombay,Clothing,Track Pants,1373.28,1.0,0,Cash On Delivery,cancelled,26/05/2025
+10411,Ramesh Mehta,ramesh.mehta58@gmail.com,bengaluru,CLOTHING,Denim Jeans,1876.99,2.0,10,cod,Canceled,08-03-2025
+10370,Neha Rao,neha.rao16@gmail.com,kolkata,toys,Puzzle Set,319.19,2.0,0,Upi,Returned,20 Mar 2024
+10661,  Vijay Das  ,vijay.das207@yahoo.com,BANGALORE,Clothes,Saree,943.53,1.0,0,Debit Card,Delivered,12/02/2025
+10612,Amit Chowdary,amit.chowdary123@yahoo.com,mumbai,Grocery,Basmati Rice 5kg,94.88,2.0,10,CC,returned,12/10/2024
+10079,Amit Naidu,amit.naidu121@gmail.com,PUNE,Sports,Dumbbell Set,3901.42,1.0,0,Cash On Delivery,cancelled,30 Aug 2024
+10574,Ananya Sharma,ananya.sharma179@yahoo.com,Calcutta,Home & Kitchen,Non-stick Pan,3104.1,1.0,0,Net Banking,Delivered,2024-11-03
+10646,Pooja Chatterjee,pooja.chatterjee13@gmail.com,PUNE,Clothing,Jacket,2424.22,1.0,0,Net Banking,pending,06/02/2024
+10009,Riya Verma,riya.verma241@gmail.com,ahmedabad,BEAUTY,Face Wash,₹1065.39,2.0,5%,CREDIT CARD,delivered,03/04/2024
+10674,Ramesh Malhotra,ramesh.malhotra54@gmail.com,lucknow,Sports,Running Shoes,3432.45,1.0,20,upi,DELIVERED,2024-06-19
+10748,Saanvi Chatterjee,saanvi.chatterjee31@gmail.com,Ahmedabad,Sports,Cycling Gloves,3991.79,2.0,10,debit card,pending,06/25/2025
+10417,Vijay Iyer,vijay.iyer234@gmail.com,lucknow,Sport,Skipping Rope,3809.58,1.0,5,NetBanking,Delivered,06/01/2025
+10602,Divya Reddy,divya.reddy80@gmail.com,Hyderbad,Electronics,Bluetooth Speaker,4490.62,1.0,0,debit card,pending,25/02/2024
+10562,Myra Verma,myra.verma57@gmail.com,BANGALORE,Beauty ,Face Wash,448.58,1.0,0,upi,Returned,01/14/2025
+10068,Saanvi Mehta,saanvi.mehta187@gmail.com,Hyd,Book,Children's Story Book,967.76,3.0,20,cod,DELIVERED,04/11/2024
+10537,Sunita Nair,sunita.nair108@gmail.com,DELHI,Grocery,Tea Powder 500g,673.37,5.0,20,COD,Shipped,10-07-2025
+10078,Kiran Kumar,kiran.kumar128@gmail.com,Bangalore,Book,Business Strategy,200.83,2.0,5,CREDIT CARD,returned,07/11/2025
+10106,  Amit Nair  ,amit.nair74@gmail.com,Kolkata,beauty,Shampoo 400ml,1274.13,2.0,0,Cash On Delivery,Returned,01/25/2025
+10290,Reyansh Gupta,reyansh.gupta131@gmail.com,Hyderbad,Groceries,Wheat Atta 5kg,287.97,1.0,20%,credit card,Shipped,2024-08-22
+10633,Vijay Kumar,vijay.kumar38@yahoo.com,jaipur,ELECTRONICS,USB-C Charger,955.84,1.0,0,Cash On Delivery,returned,31/13/2024
+10560,Anika Iyer,anika.iyer190@gmail.com,Jaipur,Electronic,Laptop Stand,3691.1,3.0,0,credit card,pending,16-07-2025
+10706,Priya Rao,,Madras,Toy,Building Blocks,1486.11,5.0,0,net banking,CANCELLED,09/14/2024
+10758,Ishaan Naidu,ishaan.naidu155@gmail.com,Ahmedabad,grocery,Sunflower Oil 1L,118.22,1.0,15,Cash On Delivery,Returned,31 Mar 2025
+10631,Amit Chowdary,amit.chowdary123@yahoo.com,MUMBAI,Electronics,USB-C Charger,482.54,1.0,5,debit card,cancelled,16 Mar 2025
+10491,Suresh Rao,suresh.rao171@yahoo.com,MUMBAI,Grocery,Ghee 1L,737.73,3.0,10,Upi,CANCELLED,01/06/2024
+10243,Kavya Iyer,kavya.iyer7@yahoo.com,,Home&Kitchen,Mixer Grinder,3359.66,2.0,0,CC,Cancelled,29/04/2025
+10686,Rohan Nair,rohan.nair145@gmail.com,Madras,electronics,Wireless Mouse,4072.24,2.0,10,Credit Card,Pending,06/05/2025
+10364,Kiran Malhotra,kiran.malhotra133@yahoo.com,New Delhi,home & kitchen,Storage Container Set,1966.06,1.0,20,net banking,Cancelled,2024-02-06
+10070,Reyansh Gupta,reyansh.gupta131@gmail.com,Hyderabad,Home&Kitchen,LED Bulb,1969.09,4.0,10,Debit Card,Pending,09 Apr 2025
+10549,Divya Reddy,divya.reddy61@yahoo.com,Ahmedabad,grocery,Toor Dal 1kg,728.42,3.0,0,COD,returned,18 Oct 2024
+10161,  Aadhya Kumar  ,aadhya.kumar34@gmail.com,Ahmedabad,Home & Kitchen,Non-stick Pan,1714.92,1.0,0%,CC,Returned,24/11/2024
+10012,Arjun Das,arjun.das168@gmail.com,Bengaluru,home & kitchen,Mixer Grinder,1689.13,2.0,5,upi,Pending,2024-04-03
+10145,Aadhya Kumar,aadhya.kumar34@gmail.com,Ahmedabad,grocery,Ghee 1L,524.4,5.0,5,NetBanking,Shipped,04/25/2024
+10518,Rahul Joshi,rahul.joshi17@gmail.com,Mumbai,ELECTRONICS,Smartwatch,4088.17,1.0,20,DC,Pending,12/06/2025
+10428,Anika Patel,anika.patel89@gmail.com,Pune,CLOTHING,Formal Shirt,1618.38,1.0,5,Credit Card,delivered,2024-10-25
+10177,Vijay Chowdary,vijay.chowdary162@yahoo.com,Chennai,Toy,Soft Toy Bear,₹450.9,2.0,0,upi,Pending,07-02-2024
+10441,Vijay Kumar,vijay.kumar38@yahoo.com,jaipur,Toy,Remote Control Car,1559.21,1.0,5,COD,delivered,18-12-2024
+10522,KIRAN REDDY,kiran.reddy83@gmail.com,DELHI,home & kitchen,Non-stick Pan,3110.86,1.0,15,Net Banking,shipped,
+10708,Suresh Rao,suresh.rao171@yahoo.com,Mumbai,toys,Building Blocks,899.08,5.0,15,Debit Card,delivered,
+10762,Krishna Iyer,krishna.iyer224@yahoo.com,lucknow,Book,Self Help Guide,₹359.97,4.0,0,UPI,pending,07/01/2024
+10232,Kiran Kumar,kiran.kumar128@gmail.com,Bangalore,books,Business Strategy,734.67,5.0,15,DC,Shipped,08/05/2024
+10211,Vijay Nair,vijay.nair130@gmail.com,Chennai,clothing,Track Pants,1224.92,3.0,5,CREDIT CARD,returned,2024-03-25
+10144,Pooja Naidu,pooja.naidu163@yahoo.com,Chennai,Book,Data Science Handbook,408.07,1.0,0%,NB,Shipped,08/15/2024
+10520,Myra Rao,myra.rao48@gmail.com,delhi,Beauty,Lipstick,1441.91,1.0,15,DC,cancelled,09-10-2024
+10256,Neha Das,neha.das210@yahoo.com,,Toys,Puzzle Set,1285.68,2.0,10,Net Banking,Shipped,22-06-2025
+10299,Aditya Iyer,aditya.iyer110@yahoo.com,PUNE,Books,Self Help Guide,449.31,2.0,0,net banking,Cancelled,15-10-2024
+10429,Riya Pillai,riya.pillai141@yahoo.com,MUMBAI,books,Business Strategy,951.41,1.0,0,CC,Pending,2025-06-16
+10613,Kavya Chowdary,kavya.chowdary173@yahoo.com,Kolkata,grocery,Basmati Rice 5kg,157.44,2.0,0,NetBanking,Cancelled,06-09-2024
+10751,RIYA CHATTERJEE,riya.chatterjee154@gmail.com,Delhi,CLOTHING,Formal Shirt,2479.29,4.0,0,net banking,delivered,2024-08-20
+10009,Riya Verma,riya.verma241@gmail.com,ahmedabad,BEAUTY,Face Wash,₹1065.39,2.0,5%,CREDIT CARD,delivered,03/04/2024
+10157,Pooja Pillai,pooja.pillai181@gmail.com,mumbai,Beauty ,Perfume,951.38,3.0,0,Cash On Delivery,cancelled,31/13/2024
+10540,Vivaan Chatterjee,vivaan.chatterjee218@yahoo.com,bengaluru,sports,Yoga Mat,3816.75,2.0,15%,debit card,Returned,27-03-2024
+10507,Vivaan Rao,vivaan.rao29@yahoo.com,,Beauty,Hair Oil,829.84,,0,debit card,cancelled,31/13/2024
+10437,RIYA GUPTA,riya.gupta247@gmail.com,chennai,Book,Cook Book,898.65,3.0,15,debit card,Returned,02/19/2025
+10267,Amit Chowdary,amit.chowdary123@yahoo.com,mumbai,Electronics ,Earbuds,3301.38,1.0,15,,DELIVERED,01/28/2025
+10462,Saanvi Kapoor,saanvi.kapoor111@yahoo.com,PUNE,Clothing,Hoodie,2245.5,3.0,0,Upi,Canceled,07/07/2025
+10577,Priya Chatterjee,priya.chatterjee202@yahoo.com,Madras,Home and Kitchen,Storage Container Set,2253.41,4.0,15,Cash On Delivery,shipped,15 Nov 2024
+10339,Kiran Verma,kiran.verma91@yahoo.com,Bengaluru,Sport,Cycling Gloves,2930.93,1.0,0%,NB,Shipped,03 Jun 2025
+10256,Neha Das,neha.das210@yahoo.com,,Toys,Puzzle Set,1285.68,2.0,10,Net Banking,Shipped,22-06-2025
+10656,Krishna Gupta,krishna.gupta226@yahoo.com,Chennai,Book,History of India,₹331.32,5.0,5,net banking,Delivered,20 Mar 2025
+10692,  ANIKA IYER  ,anika.iyer232@gmail.com,hyderabad,Sport,Yoga Mat,3543.93,2.0,0%,NB,DELIVERED,2024-01-05
+10561,Rohan Chowdary,rohan.chowdary124@yahoo.com,Jaipur,Electronics,Power Bank,965.32,1.0,5,NB,delivered,21/08/2024
+10209,Sai Chowdary,sai.chowdary66@yahoo.com,HYDERABAD,electronics,LED Monitor,2852.96,1.0,0,upi,Returned,2024-02-05
+10288,Aditya Iyer,aditya.iyer110@yahoo.com,,Groceries,Sugar 1kg,141.39,5.0,15,Debit Card,Delivered,02/08/2025
+10002,Kavya Malhotra,kavya.malhotra77@gmail.com,jaipur,Toy,Puzzle Set,1002.79,5.0,0%,DC,Pending,11/21/2024
+10342,AMIT CHATTERJEE,amit.chatterjee129@gmail.com,Pune,Sports,Badminton Racket,2568.3,1.0,20,cod,Pending,22 Feb 2024
+10270,Aadhya Chowdary,aadhya.chowdary150@yahoo.com,lucknow,ELECTRONICS,Bluetooth Speaker,1369.91,1.0,5,Cash On Delivery,returned,02-09-2024
+10266,Vivaan Sharma,vivaan.sharma4@gmail.com,Bengaluru,Sports,Cycling Gloves,1766.08,4.0,5,CREDIT CARD,cancelled,22-03-2025
+10664,Pooja Chatterjee,pooja.chatterjee13@gmail.com,pune,home & kitchen,Water Bottle,3231.48,2.0,0,NB,Returned,2024-11-04
+10668,Myra Kapoor,myra.kapoor94@gmail.com,kolkata,Home&Kitchen,Storage Container Set,2747.84,2.0,5,CC,shipped,23-07-2024
+10096,Neha Nair,neha.nair104@gmail.com,chennai,Electronics,Laptop Stand,1430.88,1.0,0,NetBanking,Shipped,
+10784,Priya Iyer,priya.iyer82@yahoo.com,MUMBAI,Book,Cook Book,239.12,4.0,0,Upi,shipped,06/18/2024
+10043,Divya Bose,divya.bose39@gmail.com,Hyd,Grocery,Tea Powder 500g,-775.31,5.0,0,net banking,Pending,07/26/2025
+10729,Arjun Das,arjun.das44 at gmail.com,Jaipur,beauty,Face Mask Pack,339.94,4.0,0,Debit Card,delivered,
+10085,  Ramesh Bose  ,ramesh.bose140@yahoo.com,kolkata,books,Self Help Guide,464.37,4.0,0,Cash on Delivery,Delivered,18 Dec 2024
+10677,Neha Rao,neha.rao16@gmail.com,Kolkata,ELECTRONICS,Earbuds,2903.94,4.0,0,NB,Pending,31-12-2024
+10629,Riya Verma,riya.verma70@gmail.com,pune,Book,Business Strategy,383.41,2.0,0,cod,Delivered,29/01/2025
+10046,Kiran Malhotra,kiran.malhotra75@gmail.com,New Delhi,home & kitchen,Storage Container Set,2104.67,3.0,0,credit card,pending,18-02-2024
+10162,Ishaan Das,ishaan.das53@gmail.com,delhi,Sports,Badminton Racket,1265.45,2.0,10,Debit Card,Delivered,2025-01-27
+10630,POOJA PATEL,pooja.patel203@gmail.com,Chennai,toys,Building Blocks,849.76,2.0,10,UPI,returned,14-03-2025
+10289,Divya Kapoor,divya.kapoor183@gmail.com,Ahmedabad,Grocery,Tea Powder 500g,687.43,4.0,10,credit card,Shipped,2024-08-30
+10590,Rohan Singh,rohan.singh223@gmail.com,ahmedabad,Toy,Doll House,418.06,1.0,20,DC,Returned,28 Mar 2024
+10725,ANIKA MALHOTRA,anika.malhotra228@gmail.com,Madras,books,Fiction Novel,530.28,2.0,0,debit card,Cancelled,05-03-2024
+10771,Sai Kapoor,sai.kapoor19@gmail.com,delhi,Grocery,Basmati Rice 5kg,728.74,99.0,0,Net Banking,pending,22 Mar 2025
+10576,Kavya Das,kavya.das71@yahoo.com,Jaipur,electronics,Power Bank,2248.5,1.0,5,Upi,Shipped,13 Jul 2025
+10316,Aditya Iyer,aditya.iyer110@yahoo.com,Pune,Grocery,Salt 1kg,879.75,1.0,5,Cash on Delivery,pending,20/07/2025
+10231,Pooja Naidu,pooja.naidu153@yahoo.com,Jaipur,home & kitchen,Storage Container Set,1186.37,1.0,15,Net Banking,pending,2024-03-24
+10671,Sai Singh,sai.singh204@yahoo.com,Hyderabad,Book,Cook Book,974.92,3.0,0,cod,Shipped,28/06/2025
+10077,Suresh Kapoor,suresh.kapoor6@gmail.com,kolkata,CLOTHING,Kurti,2284.49,5.0,20,credit card,pending,2025-05-23
+10634,Aadhya Das,aadhya.das237@gmail.com,bengaluru,Beauty,Sunscreen SPF50,686.71,2.0,5,CREDIT CARD,Returned,26/04/2025
+10794,Anika Patel,anika.patel89@gmail.com,pune,BEAUTY,Lipstick,915.31,4.0,0,net banking,returned,11-07-2025
+10248,Divya Chowdary,divya.chowdary12@gmail.com,Bangalore,Electronics,Laptop Stand,1308.99,1.0,0,debit card,DELIVERED,05/20/2024
+10477,Myra Naidu,myra.naidu149@gmail.com,Hyderbad,books,Business Strategy,330.38,1.0,20,CC,pending,20-06-2025
+10086,Divya Reddy,divya.reddy61@yahoo.com,Ahmedabad,toys,Action Figure,341.12,1.0,10,Debit Card,cancelled,02/13/2024
+10470,Krishna Kumar,krishna.kumar136@gmail.com,Jaipur,Electronic,Smartwatch,4448.77,1.0,0,net banking,Pending,29/05/2024
+10226,Ira Iyer,ira.iyer201@yahoo.com,Lucknow,sports,Yoga Mat,3136.86,2.0,0,Net Banking,Shipped,2025-07-29
+10332,  Divya Gupta  ,divya.gupta157@gmail.com,Lucknow,clothing,Saree,2048.73,3.0,0%,cod,Canceled,13-05-2025
+10234,Riya Bose,riya.bose196@gmail.com,PUNE,grocery,Ghee 1L,696.43,5.0,0,debit card,DELIVERED,29-03-2025
+10589,Divya Bose,divya.bose39@gmail.com,Hyderabad,clothing,Jacket,365.18,1.0,10%,Debit Card,Delivered,
+10476,Krishna Chowdary,krishna.chowdary147@yahoo.com,MUMBAI,Beauty,Hair Oil,1276.08,1.0,0,Debit Card,shipped,2025-05-12
+10724,Anika Das,anika.das222@gmail.com,Chennai,Beauty,Sunscreen SPF50,891.9,5.0,0,Debit Card,CANCELLED,05/11/2024
+10709,Kiran Singh,kiran.singh41@gmail.com,delhi,beauty,Lipstick,₹1082.94,1.0,10,Credit Card,DELIVERED,11 Mar 2025
+10600,Krishna Gupta,krishna.gupta226@yahoo.com,chennai,Sport,Cycling Gloves,1209.13,2.0,0,Net Banking,Pending,15/07/2025
+10422,Kiran Verma,,bengaluru,Books,Self Help Guide,932.07,1.0,20,UPI,Delivered,15/07/2025
+10183,Rohan Kapoor,rohan.kapoor250@gmail.com,Hyderbad,beauty,Lipstick,569.25,1.0,15,UPI,Shipped,23 Jun 2024
+10618,Riya Gupta,riya.gupta247@gmail.com,Chennai,beauty,Face Mask Pack,1462.75,1.0,0,credit card,returned,2025-02-19
+10333,Pooja Chatterjee,pooja.chatterjee13@gmail.com,Pune,BEAUTY,Shampoo 400ml,589.31,2.0,20,DC,Shipped,24/10/2024
+10439,Priya Chatterjee,priya.chatterjee45@yahoo.com,Kolkata,Beauty ,Shampoo 400ml,996.73,2.0,0,Upi,Shipped,
+10050,  Vihaan Malhotra  ,vihaan.malhotra172@yahoo.com,HYDERABAD,Electronics ,Wireless Mouse,,2.0,0,,shipped,2024-01-13
+10006,Reyansh Reddy,reyansh.reddy191@yahoo.com,New Delhi,electronics,LED Monitor,4230.06,2.0,20,Credit Card,Pending,08/01/2025
+10530,ANIKA VERMA,anika.verma231@yahoo.com,Calcutta,Grocery,Basmati Rice 5kg,759.58,2.0,20,Cash On Delivery,Shipped,19 Feb 2025
+10235,Aarav Reddy,aarav.reddy159@gmail.com,kolkata,electronics,Laptop Stand,₹3851.57,1.0,0,Cash On Delivery,shipped,15 Feb 2025
+10487,Aarav Malhotra,aarav.malhotra151@gmail.com,kolkata,Beauty ,Lipstick,415.68,1.0,5,CC,Returned,31 May 2024
+10733,Vijay Gupta,vijay.gupta93@gmail.com,chennai,Toys,Doll House,1808.73,1.0,5,upi,pending,2024-12-14
+10498,Krishna Pillai,krishna.pillai186@yahoo.com,Lucknow,ELECTRONICS,Bluetooth Speaker,4962.77,1.0,0,CC,Pending,06/08/2025
+10730,Myra Singh,,Calcutta,Sport,Yoga Mat,3859.77,3.0,5,DC,DELIVERED,12/08/2024
+10107,Ramesh Mehta,ramesh.mehta58@gmail.com,Bangalore,Sports,Dumbbell Set,3159.55,2.0,0%,Net Banking,shipped,13/05/2024
+10444,SAI SHARMA,sai.sharma221@gmail.com,Kolkata,Clothing,Cotton T-Shirt,2082.66,1.0,0,Credit Card,Returned,08 Jun 2024
+10489,Riya Sharma,riya.sharma63@yahoo.com,Bengaluru,grocery,Tea Powder 500g,184.31,3.0,10,Net Banking,Cancelled,01/03/2024
+10647,Saanvi Joshi,saanvi.joshi27@yahoo.com,New Delhi,grocery,Sunflower Oil 1L,169.79,5.0,5%,UPI,Pending,20-01-2025
+10013,Suresh Rao,suresh.rao171@yahoo.com,MUMBAI,Books,Data Science Handbook,972.14,2.0,0,Upi,Returned,15 Mar 2025
+10191,VIJAY SINGH,vijay.singh15@yahoo.com,Bengaluru,Home&Kitchen,Bedsheet Set,2777.24,2.0,0,debit card,Shipped,01/04/2025
+10283,Aadhya Gupta,aadhya.gupta97 at gmail.com,Hyd,Clothes,Denim Jeans,685.61,2.0,10,Cash on Delivery,Canceled,02/02/2025
+10030,Ira Pillai,ira.pillai142@yahoo.com,Madras,Sport,Cycling Gloves,3262.73,1.0,10,NB,Delivered,2024-11-20
+10170,Arjun Das,arjun.das44@gmail.com,jaipur,Electronics ,Smartwatch,4119.92,1.0,0,upi,DELIVERED,24 Apr 2024
+10181,ARJUN NAIR,arjun.nair25@gmail.com,jaipur,Sports,Dumbbell Set,1989.81,2.0,0,Credit Card,Returned,21-03-2025
+10101,Divya Gupta,divya.gupta157@gmail.com,Lucknow,ELECTRONICS,Wireless Mouse,3358.63,1.0,10,debit card,DELIVERED,16 Aug 2024
+10198,Myra Naidu,myra.naidu149@gmail.com,Hyderabad,Electronics ,Laptop Stand,3691.73,2.0,0,NetBanking,CANCELLED,19/04/2024
+10496,Riya Kumar,riya.kumar200@gmail.com,Delhi,Clothing,Kurti,2335.38,4.0,10,Upi,Pending,11/04/2024
+10648,Rohan Kapoor,rohan.kapoor250@gmail.com,Hyd,Beauty,Moisturizer,521.86,1.0,0,upi,Cancelled,18 Jan 2025
+10792,Priya Chatterjee,priya.chatterjee37@gmail.com,DELHI,home & kitchen,Water Bottle,2853.18,2.0,0,credit card,pending,2024-11-01
+10756,Aadhya Das,aadhya.das237 at gmail.com,Bengaluru,Electronics ,LED Monitor,2301.28,1.0,20,UPI,cancelled,05 Jul 2025
+10374,Ira Sharma,ira.sharma40@yahoo.com,bengaluru,Grocery,Sunflower Oil 1L,119.4,1.0,0,Cash on Delivery,Returned,31/13/2024
+10679,,,kolkata,Beauty,Face Wash,1464.44,1.0,0,UPI,CANCELLED,17 May 2024
+10721,DIVYA CHOWDARY,divya.chowdary12@gmail.com,bengaluru,ELECTRONICS,Bluetooth Speaker,-2998.21,1.0,10%,DC,Returned,18/08/2024
+10649,Saanvi Joshi,saanvi.joshi47@yahoo.com,Ahmedabad,books,Biography,688.46,2.0,0,NB,cancelled,02 Jan 2025
+10461,Vihaan Iyer,vihaan.iyer112@gmail.com,MUMBAI,toys,Soft Toy Bear,1487.02,1.0,0,Upi,Canceled,12/21/2024
+10414,Vihaan Patel,vihaan.patel199@gmail.com,PUNE,Electronics ,Laptop Stand,3772.7,3.0,10,Upi,Shipped,18/01/2025
+10132,Riya Iyer,riya.iyer33@gmail.com,PUNE,Groceries,Sunflower Oil 1L,73.29,3.0,20,net banking,Shipped,12 Apr 2025
+10040,Myra Iyer,myra.iyer236@yahoo.com,Mumbai,Electronics ,Power Bank,4023.62,1.0,15,CC,shipped,17 May 2024
+10435,Myra Rao,myra.rao48 at gmail.com,delhi,Home and Kitchen,Storage Container Set,2370.44,5.0,0%,cod,delivered,14 Jun 2025
+10216,Divya Bose,divya.bose39@gmail.com,Hyderbad,toys,Building Blocks,539.06,1.0,0,CREDIT CARD,shipped,04/13/2025
+10556,Krishna Reddy,krishna.reddy185@yahoo.com,Chennai,sports,Badminton Racket,941.46,4.0,0%,UPI,DELIVERED,2024-11-24
+10567,Suresh Rao,suresh.rao171@yahoo.com,Bombay,CLOTHING,Track Pants,2024.81,1.0,0,NB,Delivered,19 Apr 2025
+10475,Aditya Iyer,aditya.iyer110@yahoo.com,Pune,Toys,Remote Control Car,,4.0,0,UPI,Returned,04/08/2024
+10457,SAI PILLAI,sai.pillai84@yahoo.com,jaipur,Beauty,Perfume,265.83,2.0,5,CREDIT CARD,cancelled,01/11/2024
+10261,Arjun Bose,arjun.bose28@gmail.com,Ahmedabad,sports,Badminton Racket,900.08,4.0,15%,cod,CANCELLED,04 Nov 2024
+10036,Kavya Chowdary,kavya.chowdary173@yahoo.com,Calcutta,Clothing,Saree,,1.0,10,Cash On Delivery,shipped,31/05/2024
+10310,Sunita Kumar,,Calcutta,books,History of India,490.29,1.0,0,Net Banking,Pending,06-08-2024
+10277,Ishaan Patel,ishaan.patel78@gmail.com,PUNE,Toy,Puzzle Set,1237.88,5.0,15%,CC,Shipped,05/31/2024
+10637,Vijay Kumar,vijay.kumar38@yahoo.com,jaipur,Home and Kitchen,Non-stick Pan,2156.96,4.0,0,Credit Card,shipped,2024-05-12
+10655,Krishna Iyer,krishna.iyer224@yahoo.com,Lucknow,Clothing,Cotton T-Shirt,1006.88,1.0,0,Upi,Pending,2024-03-04
+10623,Anika Iyer,anika.iyer232@gmail.com,Hyderabad,Toys,Toy Kitchen Set,1014.34,4.0,5,CC,Pending,26-01-2024
+10394,Vihaan Reddy,vihaan.reddy95@gmail.com,Bombay,Sport,Skipping Rope,,1.0,10,Debit Card,pending,2024-08-21
+10108,Sai Chatterjee,sai.chatterjee170@yahoo.com,Lucknow,beauty,Face Mask Pack,1204.87,3.0,0%,NB,cancelled,05-12-2024
+10769,Sai Nair,sai.nair220@gmail.com,mumbai,electronics,Bluetooth Speaker,2991.84,1.0,0,Cash On Delivery,cancelled,18-02-2025
+10525,Myra Patel,myra.patel127@gmail.com,Jaipur,Books,Biography,519.07,1.0,10,credit card,Pending,01/28/2024
+10048,Priya Joshi,priya.joshi245@yahoo.com,Lucknow,electronics,Laptop Stand,4709.93,1.0,15,cod,pending,30-06-2025
+10204,VIHAAN JOSHI,vihaan.joshi10@yahoo.com,pune,toys,Doll House,1221.49,4.0,0,Upi,Pending,29-07-2024
+10753,Anika Iyer,anika.iyer232@gmail.com,Hyderabad,Book,Self Help Guide,927.07,1.0,15,UPI,delivered,02/22/2025
+10632,Ananya Verma,ananya.verma21@yahoo.com,DELHI,grocery,Sunflower Oil 1L,421.17,4.0,15,UPI,Canceled,2024-07-26
+10022,Reyansh Reddy,reyansh.reddy174@yahoo.com,Lucknow,Toys,Toy Kitchen Set,1583.99,4.0,10,NetBanking,DELIVERED,2025-06-12
+10403,Anika Iyer,anika.iyer190@gmail.com,jaipur,Sports,Badminton Racket,3643.14,5.0,15,upi,Delivered,05/02/2024
+10084,Suresh Rao,suresh.rao105@yahoo.com,Kolkata,Beauty ,Moisturizer,515.36,1.0,0,CC,shipped,2024-07-23
+10131,Ira Kapoor,ira.kapoor192@yahoo.com,Delhi,toys,Doll House,500.17,1.0,0,Credit Card,Pending,01/27/2024
+10416,Neha Nair,neha.nair64@gmail.com,mumbai,Sports,Cricket Bat,1097.64,2.0,0,,DELIVERED,14 Nov 2024
+10742,KIRAN VERMA,kiran.verma98 at gmail.com,Pune,grocery,Toor Dal 1kg,573.39,5.0,0,DC,Returned,25/02/2024
+10698,Priya Chatterjee,priya.chatterjee45@yahoo.com,kolkata,home & kitchen,LED Bulb,2072.73,4.0,0,CREDIT CARD,pending,17-08-2024
+10287,Myra Singh,myra.singh229@yahoo.com,kolkata,ELECTRONICS,LED Monitor,4504.47,5.0,0,debit card,delivered,18/05/2025
+10124,Riya Pillai,riya.pillai141@yahoo.com,Mumbai,Beauty ,Hair Oil,585.47,2.0,0,Cash on Delivery,shipped,2024-12-14
+10034,Kiran Verma,kiran.verma91@yahoo.com,bengaluru,Electronic,Wireless Mouse,1693.24,5.0,0,UPI,Shipped,06 Jan 2025
+10517,Neha Das,neha.das106@gmail.com,DELHI,Groceries,Sugar 1kg,483.93,3.0,0,CREDIT CARD,cancelled,24 Feb 2025
+10020,Ishaan Naidu,ishaan.naidu155@gmail.com,Ahmedabad,Grocery,Tea Powder 500g,118.28,1.0,0,Upi,Returned,2025-06-23
+10754,Krishna Nair,krishna.nair2@yahoo.com,Mumbai,Beauty ,Lipstick,1212.56,2.0,5,cod,Delivered,02/23/2024
+10220,Neha Rao,neha.rao120@gmail.com,Chennai,books,Fiction Novel,920.13,5.0,0,Cash on Delivery,DELIVERED,20 Apr 2024
+10350,Krishna Chowdary,krishna.chowdary147@yahoo.com,Mumbai,Book,Data Science Handbook,672.22,3.0,0%,upi,pending,31/13/2024
+10482,Rahul Verma,rahul.verma166@yahoo.com,hyderabad,sports,Running Shoes,,4.0,0,UPI,pending,19-01-2025
+10357,Krishna Nair,krishna.nair2@yahoo.com,Mumbai,sports,Cycling Gloves,1671.65,5.0,0,UPI,shipped,19-10-2024
+10662,  Saanvi Joshi  ,saanvi.joshi27@yahoo.com,New Delhi,Home&Kitchen,Non-stick Pan,2034.73,50.0,20,Upi,shipped,31/13/2024
+10225,Kavya Verma,kavya.verma177@gmail.com,pune,clothing,Jacket,583.01,2.0,0,Cash on Delivery,returned,31/12/2024
+10093,Saanvi Bose,saanvi.bose243@yahoo.com,HYDERABAD,sports,Cricket Bat,1082.45,2.0,15,Net Banking,Shipped,28/04/2025
+10152,Vihaan Joshi,vihaan.joshi10@yahoo.com,PUNE,Clothing,Jacket,1304.18,1.0,0,debit card,returned,17/04/2025
+10799,Ira Sharma,ira.sharma164@gmail.com,,Groceries,Ghee 1L,631.51,4.0,20,UPI,returned,06/03/2024
+10318,RAMESH MALHOTRA,,lucknow,books,Fiction Novel,566.38,1.0,5,net banking,Delivered,2024-02-02
+10449,Riya Pillai,riya.pillai141@yahoo.com,Mumbai,Beauty,Lipstick,364.92,5.0,5,CC,shipped,24/05/2024
+10746,Rahul Nair,rahul.nair175@yahoo.com,Bangalore,Toy,Building Blocks,345.2,1.0,15,UPI,DELIVERED,02/04/2024
+10523,Pooja Naidu,pooja.naidu153@yahoo.com,Jaipur,Electronic,Laptop Stand,3565.62,3.0,5,credit card,shipped,2024-05-17
+10280,Krishna Nair,krishna.nair2@yahoo.com,Mumbai,Toys,Board Game,420.48,1.0,10,cod,Shipped,2025-03-09
+10584,Rohan Patel,rohan.patel69@gmail.com,HYDERABAD,electronics,Wireless Mouse,3507.77,4.0,0%,Credit Card,cancelled,03-04-2025
+10765,Riya Pillai,riya.pillai141@yahoo.com,MUMBAI,Books,Children's Story Book,683.86,2.0,0,DC,Returned,05/06/2024
+10605,REYANSH MEHTA,,Bengaluru,home & kitchen,Mixer Grinder,₹349.5,2.0,0,COD,returned,06-09-2024
+10350,Krishna Chowdary,krishna.chowdary147@yahoo.com,Mumbai,Book,Data Science Handbook,672.22,3.0,0%,upi,pending,31/13/2024
+10375,Divya Chowdary,divya.chowdary12@gmail.com,bengaluru,BEAUTY,Lipstick,1063.2,4.0,0,CC,DELIVERED,2025-04-19
+10401,Vihaan Kapoor,vihaan.kapoor214@yahoo.com,Calcutta,sports,Yoga Mat,1455.92,4.0,0%,Credit Card,returned,2025-04-26
+10705,Aditya Verma,,MUMBAI,grocery,Tea Powder 500g,,1.0,15,UPI,Delivered,24-03-2025
+10258,Vijay Nair,vijay.nair130@gmail.com,Madras,sports,Running Shoes,1940.01,2.0,0,NetBanking,CANCELLED,2024-02-08
+10073,Kavya Naidu,kavya.naidu217@gmail.com,Madras,Beauty ,Hair Oil,219.94,,0,Upi,cancelled,2024-06-03
+10196,Priya Chatterjee,priya.chatterjee5@gmail.com,HYDERABAD,toys,Board Game,759.83,3.0,0,Credit Card,cancelled,10/11/2024
+10484,Ira Singh,ira.singh240@yahoo.com,Kolkata,Toy,Remote Control Car,833.47,2.0,0,UPI,Canceled,01/25/2024
+10138,Sunita Verma,sunita.verma11@gmail.com,ahmedabad,Toy,Toy Kitchen Set,1205.24,5.0,0,COD,CANCELLED,29-10-2024
+10495,Reyansh Kapoor,reyansh.kapoor59@gmail.com,Ahmedabad,Beauty,Perfume,470.51,2.0,0,Upi,shipped,17 Jan 2024
+10773,SUNITA MEHTA,sunita.mehta22@gmail.com,Calcutta,Electronic,LED Monitor,4037.99,2.0,15,NetBanking,pending,06/03/2025
+10551,Saanvi Das,saanvi.das134 at gmail.com,Kolkata,Home&Kitchen,Mixer Grinder,1064.89,1.0,0,Cash on Delivery,cancelled,12/24/2024
+10463,Saanvi Das,saanvi.das134@gmail.com,Kolkata,Clothes,Cotton T-Shirt,859.38,1.0,15,Cash On Delivery,Pending,12/25/2024
+10202,  Saanvi Chatterjee  ,saanvi.chatterjee31@gmail.com,ahmedabad,Books,Business Strategy,416.38,4.0,5,NB,pending,22 Apr 2024
+10313,,sunita.nair108@gmail.com,,grocery,Salt 1kg,232.72,2.0,0,Cash on Delivery,pending,24-02-2025
+10291,Pooja Naidu,pooja.naidu163@yahoo.com,chennai,home & kitchen,Bedsheet Set,1308.39,5.0,0,net banking,Delivered,2024-02-11
+10190,NEHA KUMAR,neha.kumar239@gmail.com,pune,toys,Puzzle Set,1905.02,3.0,0,NetBanking,Shipped,28-03-2025
+10764,Reyansh Sharma,reyansh.sharma167@gmail.com,lucknow,Groceries,Salt 1kg,84.41,4.0,0,upi,Shipped,14-02-2024
+10113,Riya Pillai,riya.pillai141@yahoo.com,Bombay,clothing,Hoodie,1776.71,2.0,0,CC,Canceled,05/12/2025
+10184,Sunita Iyer,,pune,Home & Kitchen,Bedsheet Set,1279.08,2.0,10,Net Banking,pending,04/10/2024
+10153,Riya Verma,riya.verma241@gmail.com,Ahmedabad,Grocery,Salt 1kg,400.53,5.0,0,upi,Cancelled,2024-04-03
+10326,Ira Chatterjee,ira.chatterjee132@gmail.com,bengaluru,sports,Skipping Rope,2905.92,1.0,20,COD,Cancelled,10/11/2024
+10704,Vijay Singh,vijay.singh15@yahoo.com,Bengaluru,home & kitchen,LED Bulb,405.19,2.0,0,Credit Card,Pending,2024-09-03
+10045,Amit Mehta,amit.mehta119@gmail.com,Lucknow,Book,Biography,₹848.86,2.0,5,Net Banking,Delivered,02/04/2024
+10445,Ananya Verma,ananya.verma21@yahoo.com,Delhi,Groceries,Toor Dal 1kg,659.52,50.0,0,COD,CANCELLED,07/09/2024
+10788,Arjun Bose,arjun.bose28@gmail.com,Ahmedabad,Groceries,Toor Dal 1kg,844.31,1.0,15,Cash On Delivery,DELIVERED,2024-05-17
+10007,Sai Chowdary,sai.chowdary66@yahoo.com,hyderabad,Toy,Action Figure,1542.81,3.0,20,NetBanking,Pending,27 Sep 2024
+10251,Rahul Das,rahul.das193@yahoo.com,ahmedabad,CLOTHING,Hoodie,1276.91,3.0,0,NetBanking,returned,2025-01-26
+10076,Neha Nair,neha.nair64@gmail.com,MUMBAI,Sport,Running Shoes,2174.47,2.0,0,Debit Card,Cancelled,2024-01-13
+10513,Myra Iyer,myra.iyer198@gmail.com,Madras,Toys,Remote Control Car,1773.5,1.0,20%,Cash On Delivery,Shipped,24 Feb 2024
+10392,Saanvi Das,saanvi.das134@gmail.com,Calcutta,Toy,Doll House,325.66,4.0,0,CREDIT CARD,delivered,2025-02-11
+10433,Riya Iyer,riya.iyer33@gmail.com,pune,home & kitchen,Pressure Cooker,2303.07,1.0,0%,NetBanking,returned,2024-04-21
+10069,Pooja Naidu,pooja.naidu153@yahoo.com,Jaipur,Clothing,Cotton T-Shirt,2470.14,3.0,0,,Cancelled,03/02/2024
+10168,Reyansh Chowdary,reyansh.chowdary109@gmail.com,PUNE,Groceries,Ghee 1L,482.0,5.0,5,DC,pending,2024-02-04
+10731,  Divya Chowdary  ,divya.chowdary12@gmail.com,BANGALORE,Book,Data Science Handbook,,1.0,5,Net Banking,Pending,04-02-2025
+10555,Ramesh Bose,ramesh.bose182@yahoo.com,Chennai,sports,Football,2422.42,2.0,0,Net Banking,Cancelled,15-02-2024
+10367,Arjun Das,arjun.das44@gmail.com,Jaipur,Home&Kitchen,Curtains,2157.25,1.0,0,upi,Returned,07-02-2024
+10346,VIJAY SINGH,vijay.singh15@yahoo.com,Bangalore,clothing,Cotton T-Shirt,577.77,1.0,0,Cash On Delivery,DELIVERED,2024-03-19
+10585,Riya Bose,riya.bose196@gmail.com,PUNE,Home and Kitchen,Bedsheet Set,2391.84,1.0,5,CREDIT CARD,DELIVERED,2025-07-09
+10536,Divya Chowdary,divya.chowdary12@gmail.com,BANGALORE,Clothing,Saree,904.86,1.0,0,debit card,Pending,31/13/2024
+10399,Ishaan Patel,ishaan.patel78@gmail.com,PUNE,CLOTHING,Jacket,1052.35,1.0,0,CC,cancelled,27/11/2024
+10186,Vijay Singh,vijay.singh15@yahoo.com,Bengaluru,Sports,Yoga Mat,665.12,3.0,5,debit card,DELIVERED,04 May 2025
+10349,Ramesh Kapoor,ramesh.kapoor88@gmail.com,Bombay,Book,Biography,814.22,1.0,20,NB,shipped,06/15/2024
+10616,Ishaan Patel,ishaan.patel78@gmail.com,pune,beauty,Moisturizer,519.7,1.0,5,DC,delivered,20/01/2025
+10212,Sunita Iyer,sunita.iyer189@gmail.com,pune,Groceries,Sugar 1kg,196.46,3.0,20,Debit Card,Shipped,04/01/2024
+10580,Sunita Pillai,sunita.pillai138@yahoo.com,Jaipur,electronics,LED Monitor,3998.58,2.0,20%,upi,Pending,07/07/2024
+10503,Anika Das,anika.das222@gmail.com,Madras,Home&Kitchen,Mixer Grinder,216.45,2.0,10,DC,Canceled,18/12/2024
+10538,Aadhya Mehta,aadhya.mehta238@yahoo.com,PUNE,clothing,Jacket,1351.31,1.0,5%,CC,Pending,27/03/2024
+10197,REYANSH PILLAI,reyansh.pillai169@yahoo.com,Chennai,electronics,LED Monitor,946.04,2.0,0,COD,Returned,02/04/2024
+10176,Reyansh Iyer,reyansh.iyer18@yahoo.com,bengaluru,Home & Kitchen,Non-stick Pan,₹1467.6,5.0,0,Upi,Returned,15-04-2025
