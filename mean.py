@@ -49,5 +49,11 @@ Time-series basics
 Moving averages
 
 (Advanced / Later)
-
+Logistic regression
+Bayesian statistics
+Maximum likelihood
+ANOVA in greater depth
+Non-parametric tests
+Experimental design
+Advanced time-series models
 '''
