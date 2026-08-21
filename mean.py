@@ -10,7 +10,7 @@ measures like mean, median, and mode. It includes measures of
 dispersion like range, variance, and standard deviation. Descriptive
 statistics is used to describe the dataset and does not make predictions
 
-Must Know
+(Level-1)
 Mean
 Median
 Mode
@@ -35,5 +35,19 @@ Null & alternative hypothesis
 p-value
 Statistical significance
 Type I & Type II errors
+
+(Level-2)
+t-test
+Chi-square test
+ANOVA
+Regression
+R²
+A/B testing
+Central Limit Theorem
+Sampling bias
+Time-series basics
+Moving averages
+
+(Advanced / Later)
 
 '''
